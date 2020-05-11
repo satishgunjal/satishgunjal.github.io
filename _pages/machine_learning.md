@@ -1,6 +1,6 @@
 ---
 permalink: /machine_learning/
-title: "Machine Learning Tutorials"
+title: "Machine Learning"
 author_profile: true
 layout: single
 
