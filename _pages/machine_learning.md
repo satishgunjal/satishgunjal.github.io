@@ -1,9 +1,10 @@
 ---
 title: "Machine Learning Tutorials"
 permalink: /machine_learning/
-date: ""
-layout: single
+layout:single
+author_profile: true
 ---
+
 #### 1. Introduction and Learning Plan
 
 #### 2. [Univariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/univariate_lr/)
