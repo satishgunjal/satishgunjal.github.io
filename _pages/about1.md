@@ -1,12 +1,9 @@
 ---
-permalink: /about_me/
-title: "About Me"
-excerpt: "About Me"
+permalink: /about1/
+title: "About1"
 author_profile: true
 layout: single
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 My name Satish Gunjal. I am passionate about technology, particularly about machine learning and electric cars. I love programming and building things!
