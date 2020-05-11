@@ -17,4 +17,4 @@ Whenever I am learning something new or preparing for new project, I have a habi
 
 While learning machine learning I have also faced the same issues. But since I have gone through that phase and now I have prepared my notes, I am going to publish it so that it may help others.
 
-If your share the same interest connect with me on [GitHub](https://github.com/satishgunjal) and [Twitter](https://twitter.com/satish_gunjal)
+If your share the same interest connect with me at *gunjal.satish@gmail.com*
