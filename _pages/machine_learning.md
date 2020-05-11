@@ -1,9 +1,5 @@
----
-title: "Machine Learning Tutorials"
-permalink: /machine_learning/
-layout:single
-author_profile: true
----
+
+
 
 #### 1. Introduction and Learning Plan
 
