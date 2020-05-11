@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+permalink: /about/
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-### **Objective Of Linear Model**
-Every machine learning model actually generalize the relationship between input variables and output variables. In case of linear regression since relationship is linear, this generalization can be represented by simple line function. Lets consider the below example, input values are ploted on X axis and output values are plotted on Y axis.
+My name Satish Gunjal. I am passionate about technology, particularly about machine learning and electric cars. I love programming and building things!
 
-![Linear Relationship Between Input(X) and Output(y) Values](https://raw.githubusercontent.com/satishgunjal/Images/master/Only_Datapoints.png)
+Formally educated as an engineer and now working in a IT company with than 13 years of experience. 
 
-Since there are only few data point we can easily eyeball it and draw a best fit line, which will generalize the relationship between input and output varaibles for us. 
+Whenever I am learning something new or preparing for new project, I have a habit of taking notes. In today's always online world there is no shortage of content about any subject. For our single sentence query Google shows millions of results within few milliseconds! Problem is finding the good quality content from that mess.
 
-![Line Generalising The Relationship Between Input(X) and Output(y) Values](https://raw.githubusercontent.com/satishgunjal/Images/master/Datapoints_With_Line.png)
+While learning machine learning I have also faced the same issues. But since I have gone through that phase and now I have prepared my notes, I am going to publish it so that it may help others.
 
-Since this line generalises the reltionship between input and output values for any prediction on given input value, we can simply plot it on a line and Y cordinate for that point will give us the prediction value. 
-
-![Prediction Using Best Fit Line](https://raw.githubusercontent.com/satishgunjal/Images/master/Datapoints_With_Line_And_Prediction.png)
-
-So our objective is to find the best fit line which will generalize the given training data for future predictions.
+If your share the same interest connect with me on [GitHub](https://github.com/satishgunjal) and [Twitter](https://twitter.com/satish_gunjal)
