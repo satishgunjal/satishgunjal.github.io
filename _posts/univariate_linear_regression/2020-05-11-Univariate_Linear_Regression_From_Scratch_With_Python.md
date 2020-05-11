@@ -492,14 +492,6 @@ plt.title('Linear Regression Fit')
 plt.legend()
 ```
 
-
-
-
-    <matplotlib.legend.Legend at 0x7fc74227ee80>
-
-
-
-
 ![png](https://raw.githubusercontent.com/satishgunjal/satishgunjal.github.io/master/_posts/univariate_linear_regression/images/Univariate_Linear_Regression_From_Scratch_With_Python_31_1.png)
 
 
@@ -520,14 +512,6 @@ plt.xlabel('Number of iterations')
 plt.ylabel('Cost (J)')
 plt.title('Convergence of gradient descent')
 ```
-
-
-
-
-    Text(0.5, 1.0, 'Convergence of gradient descent')
-
-
-
 
 ![png](https://raw.githubusercontent.com/satishgunjal/satishgunjal.github.io/master/_posts/univariate_linear_regression/images/Univariate_Linear_Regression_From_Scratch_With_Python_33_1.png)
 
