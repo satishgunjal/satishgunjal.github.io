@@ -6,7 +6,8 @@ date: ""
 
 ## Machine Learning Tutorials
 
-1. Introduction and Learning Plan
+### 1. Introduction and Learning Plan
+
 ### 2. [Univariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/univariate_lr/)
 
 ![Linear_Regression_Header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png)
