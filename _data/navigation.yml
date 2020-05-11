@@ -3,7 +3,7 @@ main:
   - title: "Machine Learning"
     url: /_pages/machine_learning/
   - title: "About"
-    url: /about/
+    url: /_posts/about/
   #- title: "Sample Posts"
   #  url: /year-archive/
   #- title: "Sample Collections"
