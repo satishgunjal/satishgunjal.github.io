@@ -1,12 +1,12 @@
-        ---
-        title: 'Univariate Linear Regression From Scratch With Python'
-        date: 2020-05-11
-        permalink: /univariate_lr/
-        tags:
-          - Univariate Linear Regression
-          - Single Variable Linear Regression
-          - Python
-        ---
+---
+title: 'Univariate Linear Regression From Scratch With Python'
+date: 2020-05-11
+permalink: /univariate_lr/
+tags:
+  - Univariate Linear Regression
+  - Single Variable Linear Regression
+  - Python
+---
 
 # **Univariate Linear Regression From Scratch With Python**
 
