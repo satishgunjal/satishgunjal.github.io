@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Satish Gunjal"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://raw.githubusercontent.com/satishgunjal/images/master/satish_gunjal_bio_photo.jpg"
   bio              : "Programmer|Tech Enthusiast|Father"
   location         : "Pune, India"
   email            :
