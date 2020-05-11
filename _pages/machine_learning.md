@@ -1,9 +1,14 @@
 ---
 permalink: /machine_learning/
 title: "Machine Learning"
-author_profile: true
-layout: single
 
+default:
+  - scope:
+      path: ""
+      type: pages    
+    values:
+      author_profile: true
+      layout: single
 ---
 
 #### 1. Introduction and Learning Plan
