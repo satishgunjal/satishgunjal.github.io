@@ -244,14 +244,6 @@ plt.ylabel('Profit in $10,000s')
 plt.title('Scatter plot of training data')
 ```
 
-
-
-
-    Text(0.5, 1.0, 'Scatter plot of training data')
-
-
-
-
 ![png](https://raw.githubusercontent.com/satishgunjal/satishgunjal.github.io/master/_posts/univariate_linear_regression/images/Univariate_Linear_Regression_From_Scratch_With_Python_14_1.png)
 
 
