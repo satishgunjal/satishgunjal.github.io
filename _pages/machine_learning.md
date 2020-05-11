@@ -2,6 +2,7 @@
 title: "Machine Learning"
 permalink: /machine_learning/
 date: ""
+layout: single
 ---
 
 ## Machine Learning Tutorials
