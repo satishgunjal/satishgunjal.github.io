@@ -8,7 +8,7 @@ tags:
   - Python
 ---
 
-![Header Image](https://raw.githubusercontent.com/satishgunjal/Images/master/Datapoints_With_Line_And_Prediction.png)
+In this tutorial I will cover basic concepts of linear regression. I will explain the process of creating a model right from hypothesis function to gradient descent algorithm. We will also use plots for better visualization of inner workings of the model. At the end we will test our model using single variable training data.
 
 ## **Introduction**
 
