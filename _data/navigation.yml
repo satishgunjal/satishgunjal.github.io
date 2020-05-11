@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Machine Learning"
-    url: /_pages/machine_learning/
+    url: /machine_learning/
   - title: "About"
     url: /_posts/about/
   #- title: "Sample Posts"
