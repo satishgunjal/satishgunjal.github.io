@@ -8,10 +8,6 @@ tags:
   - Python
 ---
 
-# **Univariate Linear Regression From Scratch With Python**
-
-
-
 ## **Introduction**
 
 Linear regression is one of the most basic machine learning model. Its like a 'hello world' program of the machine learning. Linear regression is used when there is linear relationship between input variables and output variables. That means we can calculate the values of output variables by using some kind of linear combination of input variables. For example house prices are directly proportional to the house size, no of bedrooms, location etc. There is linear relationship between house prices and and factors affecting it.
