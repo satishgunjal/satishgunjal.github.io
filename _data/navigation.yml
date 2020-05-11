@@ -2,7 +2,7 @@
 main:
   - title: "Machine Learning"
     url: /machine_learning/
-  - title: "About"
+  - title: "About Me"
     url: /about/
   #- title: "Sample Posts"
   #  url: /year-archive/
