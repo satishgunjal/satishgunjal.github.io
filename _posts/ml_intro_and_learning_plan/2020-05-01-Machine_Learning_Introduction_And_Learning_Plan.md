@@ -10,7 +10,7 @@ tags:
 
 ![machine_learning_header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png) 
 
-In this tutorial we will see the brief introduction of Machine Learning and preferred learning plan for beginners. In this tutorial we will see the brief introduction of Machine Learning and preferred learning plan for beginners.
+In this tutorial we will see the brief introduction of Machine Learning and preferred learning plan for beginners.
   
 ## **What Is Machine Learning**
  
