@@ -10,7 +10,7 @@ tags:
 
 ![machine_learning_header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png) 
 
-In this tutorial we will see the brief introduction of Machine Learning and preferred learning plan for beginners.
+In this tutorial we will see the brief introduction of Machine Learning and preferred learning plan for beginners. In this tutorial we will see the brief introduction of Machine Learning and preferred learning plan for beginners.
   
 ## **What Is Machine Learning**
  
@@ -42,7 +42,7 @@ I will follow the below four-step plan for every machine learning algorithm.
  
 Since scikit-learn library has all the machine learning algorithms implemented it is very tempting to just start using it. But if you are beginner, I will strongly advise you to follow above plan so that you will learn inner workings of every algorithm and it may make huge difference in long run.
  
-Without further dew lets start with it...
+Without further ado lets start with it...
  
 ![fresh_start.png](https://github.com/satishgunjal/images/blob/master/fresh_start2.png?raw=true)
  
