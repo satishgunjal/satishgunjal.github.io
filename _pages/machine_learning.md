@@ -3,6 +3,7 @@ permalink: /machine_learning/
 title: "Machine Learning"
 author_profile: true
 layout: single
+excerpt: "Machine learning tutorials"
 
 ---
 
