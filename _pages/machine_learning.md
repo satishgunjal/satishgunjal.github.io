@@ -6,7 +6,11 @@ layout: single
 
 ---
 
-#### 1. Introduction and Learning Plan
+#### 1. [Introduction and Learning Plan](https://satishgunjal.github.io/ml_intro/)
+
+![machine_learning_header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png) 
+
+In this tutorial we will see the brief introduction of Machine Learning and preferred learning plan for beginners.
 
 #### 2. [Univariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/univariate_lr/)
 
