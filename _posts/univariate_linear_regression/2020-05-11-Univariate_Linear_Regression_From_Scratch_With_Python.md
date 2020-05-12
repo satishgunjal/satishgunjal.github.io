@@ -6,6 +6,7 @@ tags:
   - Univariate Linear Regression
   - Single Variable Linear Regression
   - Python
+excerpt: This tutorial covers basic concepts of linear regression. I will explain the process of creating a model right from hypothesis function to gradient descent algorithm
 ---
 ![Linear_Regression_Header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png)
 
