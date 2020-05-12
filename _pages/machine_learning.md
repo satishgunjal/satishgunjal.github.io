@@ -8,7 +8,7 @@ layout: single
 
 #### 1. [Introduction and Learning Plan](https://satishgunjal.github.io/ml_intro/)
 
-![machine_learning_header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png) 
+![machine_learning_header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Machine_Learning_Header.png) 
 
 In this tutorial we will see the brief introduction of Machine Learning and preferred learning plan for beginners.
 
