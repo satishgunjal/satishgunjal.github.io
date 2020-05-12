@@ -1,7 +1,16 @@
-
-I this tutorial we will see the brief introduction of Machine Learning and prefferred learning plan for beginers.
+---
+title: 'Machine Learning Introduction And Learning Plan'
+date: 2020-05-01
+permalink: /ml_intro/
+tags:
+  - Machine learning
+  - Machine learning study plan
+  - Beginers guide
+---
 
 ![machine_learning_header.png](https://github.com/satishgunjal/images/blob/master/machine_learning_header.png?raw=true)
+
+I this tutorial we will see the brief introduction of Machine Learning and prefferred learning plan for beginers.
 
 ## **What Is Machine Learning**
 
