@@ -399,8 +399,6 @@ print('The cost for given values of theta_0 and theta_1 =', cost)
     The cost for given values of theta_0 and theta_1 = 32.072733877455676
     
 
-The value of cost is 32.1, which is quite high. That means we have to keep trying different set of theta values till we get minimum cost value.
-
 ## **Gradient Descent Function**
 * As of now our compute_cost() function is ready which returns cost for given values of theta
 * We will create gradient_descent() function. In this function we are running a loop and for every iteration we are computing the value of theta using batch gradient descent algorithm. And using this value of theta we're also computing the 'cost' using cost function and storing it in a list.
