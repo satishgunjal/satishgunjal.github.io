@@ -18,8 +18,6 @@ This tutorial covers basic concepts of linear regression. I will explain the pro
 Linear regression is one of the most basic machine learning model. Its like a 'hello world' program of the machine learning. Linear regression is used when there is linear relationship between input variables and output variables. That means we can calculate the values of output variables by using some kind of linear combination of input variables. For example house prices are directly proportional to the house size, no of bedrooms, location etc. There is linear relationship between house prices and factors affecting it.
  
 If there is only one input variable then we call it 'Single Variable Linear Regression' or **'Univariate Linear Regression'**. And in case of more than one input variables we call it 'Multi Variable Linear Regression' or **'Multivariate Linear Regression'**. In this tutorial we will work on univariate linear regression only. Linear regression is **'Supervised Learning Algorithm'** and mainly used to predict real valued output like house prices.
- 
-This tutorial is divided in two parts, in part one we will create our own linear regression model from scratch and in part two we will use prebuilt linear model from scikit-learn library.
 
 
 ## **Objective Of Linear Model**
