@@ -548,3 +548,6 @@ print("For population = 70,000, our prediction of profit is", predict2 * 10000)
     For population = 35,000, our prediction of profit is 4519.7678677017675
     For population = 70,000, our prediction of profit is 45342.45012944714
     
+## **Conclusion**
+
+This concludes our univariate linear regression. But in real life profit of food truck also depends on lots of many other factors. We can use the same algorithm implemented above to perform linear regression when there are multiple factors affecting output value. In next tutorial I will explain the multivariate linear regression.
