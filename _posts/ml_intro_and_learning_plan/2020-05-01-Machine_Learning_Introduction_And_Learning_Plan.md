@@ -41,8 +41,8 @@ I will follow the below four-step plan for every machine learning algorithm.
 * Step3: Test the algorithm with some test datasets.
 * Step4: Use open source library like scikit-learn to test same algorithm
  
-Since scikit-learn library has all the machine learning algorithms implemented it is very tempting to just start using it. But if you are beginner, I will strongly advise you to follow above plan so that you will learn inner workings of every algorithm and it may make huge difference in long run.
- 
+Since scikit-learn library has all the machine learning algorithms implemented it is very tempting to just start using it. But if you are beginner, I would recommond you to follow above plan so that you will learn inner workings of every algorithm and it will make huge difference in long run.
+
 Without further ado lets start with it...
  
 ![fresh_start.png](https://github.com/satishgunjal/images/blob/master/fresh_start2.png?raw=true)
@@ -86,8 +86,10 @@ Clustering and association are two type of unsupervised learning problems
 * **Clustering**: Clustering problem is used to fin inherent grouping in data. e.g. In case of e-commerce finding a group of customers based on purchasing behavior
  
 * **Association**: Association problem is used to find rules that describe the large portions of data. e.g. In e-commerce finding a rule, why customers that buy X items also tends to buy Y items
+
  
 ![clustering_vs_association.png](https://github.com/satishgunjal/images/blob/master/clustering_vs_association.png?raw=true)
+
  
 ## **Machine Learning Models**
  
