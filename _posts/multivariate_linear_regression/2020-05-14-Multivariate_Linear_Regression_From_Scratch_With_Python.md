@@ -439,14 +439,6 @@ plt.ylabel("cost (J)")
 plt.title("Convergence of gradient descent")
 ```
 
-
-
-
-    Text(0.5, 1.0, 'Convergence of gradient descent')
-
-
-
-
 ![png](https://raw.githubusercontent.com/satishgunjal/images/master/Convergence of gradient descent.png)
 
 
@@ -499,13 +491,6 @@ plt.legend()
 ```
 
 
-
-
-    <matplotlib.legend.Legend at 0x7fd28056bba8>
-
-
-
-
 ![png](https://raw.githubusercontent.com/satishgunjal/images/master/Effect of Learning Rate On Convergence of Gradient Descent.png)
 
 
@@ -527,19 +512,7 @@ plt.title("Effect of Large Learning Rate On Convergence of Gradient Descent")
 
 
 
-
-    Text(0.5, 1.0, 'Effect of Large Learning Rate On Convergence of Gradient Descent')
-
-
-
-
 ![png](https://raw.githubusercontent.com/satishgunjal/images/master/Effect of Large Learning Rate On Convergence of Gradient Descent.png)
-
-
-
-```
-
-```
 
 ## **Testing the model**
 * **Question: Estimate the price of a 1650 sq-ft, 3-bedroom house**
