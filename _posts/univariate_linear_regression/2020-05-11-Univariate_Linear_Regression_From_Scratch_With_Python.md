@@ -132,6 +132,8 @@ Enough of theory, now lets implement gradient descent algorithm using Python and
 * pandas: Used for data manipulation and analysis
 * matplotlib : It's plotting library, and we are going to use it for data visualization
 
+*In case you don't have any experience using these libraries, don't worry I will explain every bit of code for better understanding*
+
 
 ```
 import numpy as np
