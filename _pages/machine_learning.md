@@ -25,3 +25,9 @@ This tutorial covers basic concepts of linear regression. I will explain the pro
  
 In this tutorial we are going to cover linear regression with multiple input variables. We are going to use same model that we have created in [Univariate Linear Regression](https://satishgunjal.github.io/univariate_lr/) tutorial. I would recommend to read Univariate Linear Regression tutorial first.
 We will define the hypothesis function with multiple variables and use gradient descent algorithm. We will also use plots for better visualization of inner workings of the model. At the end we will test our model using training data.
+
+#### 4. [Univariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/univariate_lr_scikit/)
+
+![Linear_Regression_ScikitLearn_Header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_ScikitLearn_Header_640x441.png)
+ 
+Scikit-learn is one of the most popular open source machine learning library for python. It provides range of machine learning models, here we are going to use linear model. Sklearn linear models are used when target value is some kind of linear combination of input value. Sklearn library has multiple types of linear models to choose form.
