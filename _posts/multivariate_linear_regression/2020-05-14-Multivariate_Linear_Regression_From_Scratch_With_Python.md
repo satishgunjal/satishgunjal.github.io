@@ -1,5 +1,5 @@
 ---
-title: 'Multivariate_Linear_Regression_From_Scratch_With_Python'
+title: 'Multivariate Linear Regression From Scratch With Python'
 date: 2020-05-14
 permalink: /multivariate_lr/
 tags:
