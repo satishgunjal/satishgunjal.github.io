@@ -41,7 +41,12 @@ I will follow the below four-step plan for every machine learning algorithm.
 * Step3: Test the algorithm with some test datasets.
 * Step4: Use open source library like scikit-learn to test same algorithm
  
-Since scikit-learn library has all the machine learning algorithms implemented it is very tempting to just start using it. But if you are beginner, I would recommond you to follow above plan so that you will learn inner workings of every algorithm and it will make huge difference in long run.
+Since scikit-learn library has all the machine learning algorithms implemented, it is very tempting to just start using it. But if you are beginner, I would recommond you to follow above plan so that you will learn inner workings of every algorithm and it will make huge difference in long run.
+
+In all my tutorials I am going to use some mathematical models and python code to test the algorithms. You don't need to be professional programmer. If you have any kind of programming experience then you should be able to understand the examples.
+ 
+During this course you will learn many new concept and use many new libraries likes panda, numpy etc. I will try to explain everything in detail in my tutorials.
+
 
 Without further ado lets start with it...
  
