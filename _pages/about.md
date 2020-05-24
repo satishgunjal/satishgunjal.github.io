@@ -7,6 +7,9 @@ layout: single
 redirect_from: 
   - /about/
   - /about.html
+header:
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/satish_gunjal_bio_photo.jpg
+  
 ---
 
 My name Satish Gunjal. I am passionate about technology, particularly about machine learning and electric cars. I love programming and building things!
