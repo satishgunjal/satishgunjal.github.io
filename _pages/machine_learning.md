@@ -31,3 +31,9 @@ We will define the hypothesis function with multiple variables and use gradient 
 ![Linear_Regression_ScikitLearn_Header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_ScikitLearn_Header_640x441.png)
  
 Scikit-learn is one of the most popular open source machine learning library for python. It provides range of machine learning models, here we are going to use linear model. Sklearn linear models are used when target value is some kind of linear combination of input value. Sklearn library has multiple types of linear models to choose form.
+
+#### 5. [Multivariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/multivariate_lr_scikit/)
+
+![multivariate_linear_Regression_scikit_header.png](https://raw.githubusercontent.com/satishgunjal/images/master/multivariate_linear_Regression_scikit_header.png)
+ 
+In this tutorial we are going to use the Linear Models from Sklearn library to perform the linear regression with multiple input features.
