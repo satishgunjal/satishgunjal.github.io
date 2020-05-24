@@ -2,13 +2,14 @@
 title: 'Univariate Linear Regression From Scratch With Python'
 date: 2020-05-11
 permalink: /univariate_lr/
-header:
-  - teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png
 tags:
   - Univariate Linear Regression
   - Single Variable Linear Regression
   - Python
+header:
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png  
 excerpt: This tutorial covers basic concepts of linear regression. I will explain the process of creating a model right from hypothesis function to gradient descent algorithm
+
 ---
 ![Linear_Regression_Header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png)
 
