@@ -4,6 +4,7 @@ title: "Machine Learning"
 author_profile: true
 layout: single
 excerpt: "Machine learning tutorials"
+
 ---
 ## Tutorials For Beginners
  1. [Introduction and Learning Plan](https://satishgunjal.github.io/ml_intro/)
