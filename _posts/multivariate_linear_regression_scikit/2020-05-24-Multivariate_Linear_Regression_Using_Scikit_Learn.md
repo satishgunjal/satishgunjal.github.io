@@ -6,7 +6,10 @@ tags:
   - Multivariate Linear Regression
   - Multiple Variable Linear Regression
   - Python
+header:
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/multivariate_linear_Regression_scikit_header.png
 excerpt: In this tutorial we are going to use the Linear Models from Sklearn library. Scikit-learn is one of the most popular open source machine learning library for python.
+
 ---
 
 ![multivariate_linear_Regression_scikit_header.png](https://raw.githubusercontent.com/satishgunjal/images/master/multivariate_linear_Regression_scikit_header.png)
