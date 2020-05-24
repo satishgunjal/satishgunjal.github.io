@@ -10,7 +10,10 @@ tags:
   - Ordinary Least Squares
   - Ridge Regression
   - Lasso Regression
+ header:
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_ScikitLearn_Header_640x441.png
 excerpt: In this tutorial we are going to use the Linear Models from Sklearn library. Scikit-learn is one of the most popular open source machine learning library for python.
+
 ---
 
 ![Linear_Regression_ScikitLearn_Header.png](https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_ScikitLearn_Header_640x441.png)
