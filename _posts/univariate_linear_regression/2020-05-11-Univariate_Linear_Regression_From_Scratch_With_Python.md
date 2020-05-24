@@ -2,6 +2,8 @@
 title: 'Univariate Linear Regression From Scratch With Python'
 date: 2020-05-11
 permalink: /univariate_lr/
+header:
+  - teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Linear_Regression_Header_640x441.png
 tags:
   - Univariate Linear Regression
   - Single Variable Linear Regression
