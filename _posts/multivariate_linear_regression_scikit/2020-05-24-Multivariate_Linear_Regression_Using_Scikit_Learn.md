@@ -21,10 +21,10 @@ Scikit-learn is one of the most popular open source machine learning library for
  
 The hypothesis function used by Linear Models of Sklearn library is as below
  
-$\hat{y}$(w, x) = w_0 + (w_1 * x_1) + (w_2 * x_2) .......(w_n * x_n)
+y(w, x) = w_0 + (w_1 * x_1) + (w_2 * x_2) .......(w_n * x_n)
  
 Where,
-* $\hat{y}$(w, x) = Target/output value
+* y(w, x) = Target/output value
 * x_1 to x_n = Dependent/Input value
 * w_0 = intercept 
 * w_1 to w_n =  as coef for every input feature(x_1 to x_n)
@@ -36,7 +36,7 @@ h(θ, x) = θ_0 + (θ_1 * x_1) + (θ_2 * x_2)......(θ_n * x_n)
 Where,
  
 * Both the hypothesis function use 'x' to represent input values or features
-* $\hat{y}$(w, x) =  h(θ, x) = Target or output value
+* y(w, x) =  h(θ, x) = Target or output value
 * w_0 = θ__0  =  intercept or Y intercept
 * w_1 to w_n = θ__1 to θ__n =  coef or slope/gradient
 
@@ -436,13 +436,6 @@ plt.ylabel('Price Predicted By Model')
 plt.rcParams["figure.figsize"] = (10,6) # Custom figure size in inches
 plt.title("Price From Dataset Vs Price Predicted By Model")
 ```
-
-
-
-
-    Text(0.5, 1.0, 'Price From Dataset Vs Price Predicted By Model')
-
-
 
 
 ![png](https://raw.githubusercontent.com/satishgunjal/images/master/price_from_dataset_vs_price_predicted_by_model.png)
