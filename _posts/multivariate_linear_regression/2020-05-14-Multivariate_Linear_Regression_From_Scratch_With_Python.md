@@ -6,10 +6,13 @@ tags:
   - Multivariate Linear Regression
   - Multiple Variable Linear Regression
   - Python
+header:
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/multivariate_linear_Regression_header.png
 excerpt: In this tutorial we are going to cover linear regression with multiple input variables. We are going to use same model that we have created in Univariate Linear Regression.
+
 ---
 
-![multivariate_linear_regression.png](https://github.com/satishgunjal/images/blob/master/multivariate_linear_Regression_header.png?raw=true)
+![multivariate_linear_regression.png](https://raw.githubusercontent.com/satishgunjal/images/master/multivariate_linear_Regression_header.png)
  
 In this tutorial we are going to cover linear regression with multiple input variables. We are going to use same model that we have created in [Univariate Linear Regression](https://satishgunjal.github.io/univariate_lr/) tutorial. I would recommend to read Univariate Linear Regression tutorial first.
 We will define the hypothesis function with multiple variables and use gradient descent algorithm. We will also use plots for better visualization of inner workings of the model. At the end we will test our model using training data.
