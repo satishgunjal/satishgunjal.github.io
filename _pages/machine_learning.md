@@ -4,9 +4,8 @@ title: "Machine Learning"
 author_profile: true
 layout: single
 excerpt: "Machine learning tutorials"
-
 ---
-## Machine Learning Tutorials
+## Tutorials For Beginners
  1. [Introduction and Learning Plan](https://satishgunjal.github.io/ml_intro/)
  2. [Univariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/univariate_lr/)
  3. [Multivariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/multivariate_lr/)
