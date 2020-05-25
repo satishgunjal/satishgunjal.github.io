@@ -14,5 +14,5 @@ excerpt: "Machine learning tutorials"
  5. [Multivariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/multivariate_lr_scikit/)
 
 ## Kaggle Projects
- 1. [Multivariate Linear Regression Fish Weight Prediction](https://satishgunjal.github.io/ml_intro/)
- 2. [Polynomial Linear Regression Fish Weight Prediction](https://satishgunjal.github.io/univariate_lr/)
+ 1. [Multivariate Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/17PENXmVUKuh2stS6t17bJfVWRVTcuNYu?usp=sharing) 
+ 2. [Polynomial Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/122RctNobBy-GdOkDVCka-7NHm5NfCIPs?usp=sharing)
