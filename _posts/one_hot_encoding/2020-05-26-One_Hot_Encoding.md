@@ -26,7 +26,7 @@ Now we know that we have to convert categorical data into numeric format so that
 ## Label Encoding:
   - It is also knows as 'Integer Encoding' because in this technique we simply assign numbers to each category. Numbering starts from 1 and then increase it for each category.
  
-  ![label_encoding.png](https://raw.githubusercontent.com/satishgunjal/images/master/label_encoding.png) 
+    ![label_encoding.png](https://raw.githubusercontent.com/satishgunjal/images/master/label_encoding.png) 
  
 ### Issue With Label Encoding
  * Label encoding only works with Ordinal variables where each category can be represented with numbers with some kind of order.
