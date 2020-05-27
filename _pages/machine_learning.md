@@ -13,6 +13,7 @@ excerpt: "Machine learning tutorials"
  4. [Univariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/univariate_lr_scikit/)
  5. [Multivariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/multivariate_lr_scikit/)
  6. [One Hot Encoding](https://satishgunjal.github.io/one_hot_encoding/)
+ 7. [Train Test Data Split](https://satishgunjal.github.io/train_test_data_split/)
 
 ## Kaggle Projects
  1. [Multivariate Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/17PENXmVUKuh2stS6t17bJfVWRVTcuNYu?usp=sharing) 
