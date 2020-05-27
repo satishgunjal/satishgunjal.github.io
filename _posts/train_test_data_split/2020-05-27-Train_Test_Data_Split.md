@@ -202,6 +202,20 @@ y.head()
 
 Now we have features and target variables ready, lets split the data into training and test datasets
 
+### Using Sklearn train_test_split Method
+* train_test_split() method takes three arguments input features, labels and test_size. 
+* Test size determines the percentage of split. e.g. test_size = 0.2, means 80% training data and 20% test data.
+* random_state is optional argument.
+
+### What Is random_state
+* It is used for initializing the internal random number generator, which will decide the splitting of data into train and test datasets
+* Order of the data will be same for a particular value of random_state. For e.g. for 'random_state=1' no matter how many times you run the code you will get same data in training and test split
+* You can use any integer value for random_state. Just remember one thing if you don't pass any value, then it will use default value 'None' and split data randomly every time you execute the code.
+
+
+ 
+
+
 
 ```
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 1)
@@ -234,6 +248,7 @@ plt.legend()
 
 
 
+
 ![png](https://raw.githubusercontent.com/satishgunjal/images/master/training_vs_test_data_for_height_feature.png)
 
 
@@ -246,7 +261,7 @@ plt.legend()
 
 
 ### Linear Model Training Using Training Dataset
-Sicne we have trining and test dataset ready, lets use training dataset for linear model training.
+Since we have training and test dataset ready, lets use training dataset for linear model training.
 
 
 ```
