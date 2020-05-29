@@ -7,7 +7,10 @@ tags:
   - Dummy Variable Trap
   - Categorical Data
   - Python
+header:
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/one_hot_encoding_header_640x452.png
 excerpt: In this tutorial we are going to study about One Hot Encoding. We will also use pandas and sklearn libraries to convert categorical data into numeric data.
+
 ---
 ![one_hot_encoding_header.png](https://raw.githubusercontent.com/satishgunjal/images/master/one_hot_encoding_header_640x452.png)
  
