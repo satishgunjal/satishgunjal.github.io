@@ -6,7 +6,10 @@ tags:
   - Training Data
   - Test Data
   - Python
+header:
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/train_test_split_header_640x480.png
 excerpt: In this tutorial we are going to study about train, test data split. We will use sklearn library to do the data split.
+
 ---
 
 ![train_test_split_header_640x480.png](https://raw.githubusercontent.com/satishgunjal/images/master/train_test_split_header_640x480.png)
