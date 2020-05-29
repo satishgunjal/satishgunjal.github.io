@@ -421,7 +421,7 @@ plt.title('Admitted Vs Not Admitted Applicants')
 ## Compute Cost Using Cost Function
 
 ### Create Feature Matrix X and Label Vector y
-If you want know the reason behind adding column of ones to feature matrix, please refer 'Vector Representation Of Hypothesis Function' in [Univariate Linear Regression](https://satishgunjal.github.io/univariate_lr/)
+If you want to know the reason behind adding column of ones to feature matrix, please refer 'Vector Representation Of Hypothesis Function' in [Univariate Linear Regression](https://satishgunjal.github.io/univariate_lr/)
  
 
 
