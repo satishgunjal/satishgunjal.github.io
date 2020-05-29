@@ -595,7 +595,9 @@ Let's plot decision boundary to cross-check the accuracy of our model
 
 ```
 # Lets calculate the X and Y values using Decision Boundary formula
-x_values = [np.min(X[:, 1] -2), np.max(X[:, 2] + 2)]
+
+# For ploting a line we just need 2 points. Here I am taking 'min' and 'max' value as my two X points
+x_values = [min(X[:, 1]), np.max(X[:, 2])]
 y_values = - (theta[0] + np.dot(theta[1], x_values)) / theta[2]
 
 plt.figure(figsize = (10,6))
