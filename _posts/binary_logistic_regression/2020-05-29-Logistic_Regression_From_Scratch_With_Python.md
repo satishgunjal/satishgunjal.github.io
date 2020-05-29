@@ -5,7 +5,10 @@ permalink: /binary_lr/
 tags:
   - Binary Logistic Regression
   - Python
+header:
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/logistic_regression_header.png
 excerpt: This tutorial covers basic concepts of logistic regression. I will explain the process of creating a model right from hypothesis function to algorithm. We will also use plots for better visualization of inner workings of the model. At the end we will test our model for binary classification.
+
 ---
 
 
