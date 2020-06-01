@@ -1,7 +1,7 @@
 ---
 title: 'Multiclass Logistic Regression Using Sklearn'
 date: 2020-06-01
-permalink: /multiclass_lr/
+permalink: /multiclass_lr_sklearn/
 tags:
   - Multiclass Classification
   - Python
