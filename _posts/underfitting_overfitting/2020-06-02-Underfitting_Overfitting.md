@@ -21,7 +21,7 @@ Remember that the main objective of any machine learning model is to generalize 
 * This usually happens when we try to fit linear function for non-linear data.
 * Since underfitting models don't perform well on training set, it's very easy to detect underfitting
 
-![Underfitting.png](https://raw.githubusercontent.com/satishgunjal/images/master/Underfitting.png)
+  ![Underfitting.png](https://raw.githubusercontent.com/satishgunjal/images/master/Underfitting.png)
 
 
 ### How To Avoid Underfitting?
@@ -35,7 +35,7 @@ Please refer my [Multiple Linear Regression Fish Weight Prediction](https://www.
 * Overfitting occurs when machine learning model tries to fit the training data too well. It is usually caused by complicated function that creates lots of unnecessary curves and angles that are not related with data and end up capturing the noise in data.
 * Overfitting models have low error in training set but high error in test set. This behavior is called as 'High Variance'
 
-![Overfitting.png](https://raw.githubusercontent.com/satishgunjal/images/master/Overfitting.png)
+  ![Overfitting.png](https://raw.githubusercontent.com/satishgunjal/images/master/Overfitting.png)
 
 ### How To Avoid Overfitting?
 * Since overfitting algorithm captures the noise in data, reducing the number of features will help. We can manually select only important features or can use model selection algorithm for same
@@ -53,7 +53,7 @@ Please refer my [Polynomial Linear Regression Fish Wgt Prediction](https://www.k
 * A good fitting model generalizes the learnings from training data and provide accurate predictions on new data
 * To get the good fitting model, keep training and testing the model till you get the minimum train and test error. Here important parameter is 'test error' because low train error may cause overfitting so always keep an eye on test error fluctuations. The sweet spot is just before the test error start to rise.
 
-![Goodfit.png](https://raw.githubusercontent.com/satishgunjal/images/master/Goodfit.png)
+  ![Goodfit.png](https://raw.githubusercontent.com/satishgunjal/images/master/Goodfit.png)
 
 ### Example
 Please refer my [Multiclass Logistic Regression](https://satishgunjal.com/multiclass_lr_sklearn/). In this study I am using Linear Model from Sklearn library to perform Multi Class Logistic Regression on handwritten digit's dataset. Notice the algorithm selection and model performance analysis.
