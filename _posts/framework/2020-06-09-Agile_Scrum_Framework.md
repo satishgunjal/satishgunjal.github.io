@@ -7,7 +7,8 @@ tags:
   - Scrum
 header:
   teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Agile_Scrum_Header.png
-excerpt: In this tutorial I will explain Agile and Scrum basic concepts using appropriate examples.
+excerpt: This tutorial covers basic Agile principles and use of Scrum framework in software development projects.
+
 ---
 
 ![Agile_Scrum_Header](https://raw.githubusercontent.com/satishgunjal/images/master/Agile_Scrum_Header.png)
