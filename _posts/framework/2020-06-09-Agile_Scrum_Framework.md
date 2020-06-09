@@ -2,7 +2,6 @@
 title: 'Agile Scrum Framework'
 date: 2020-06-09
 permalink: /agile_scrum/
-layout: splash
 tags:
   - Agile
   - Scrum
