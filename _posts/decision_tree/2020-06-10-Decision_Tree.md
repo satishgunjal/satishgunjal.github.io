@@ -64,7 +64,7 @@ Gini impurity is computationally faster as it doesn’t require calculating loga
 
 # Advantages Of Decision Tree
 * Simple to understand and to interpret. Trees can be visualized.
-* Requires little data preparation. Other techniques often require data normalization, dummy variables need to be created and blank values to be removed. Note however that this module does not support missing values.
+* Requires little data preparation. Other techniques often require data normalization, dummy variables need to be created and blank values to be removed. However that this module does not support missing values.
 * Able to handle both numerical and categorical data.
 * Able to handle multi-output problems.
 * Uses a white box model. Results are easy to interpret.
