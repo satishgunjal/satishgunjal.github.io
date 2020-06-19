@@ -502,4 +502,4 @@ plot_support_vector(classifiers['poly'])
 
 
 # Conclusion
-Remember that, our data id 2D so hyperplane will be a line. But if you observe the data closely there is no clear separation between classes that's why straight line is not a good fit, which is obvious from above plots. Though the accuracy of poly kernel is less than rbf, but still its best choice for our data. 
+Remember that, our data is 2D so hyperplane will be a line. But if you observe the data closely there is no clear separation between classes that's why straight line is not a good fit, which is obvious from above plots. Though the accuracy of poly kernel is less than rbf, but still its best choice for our data. 
