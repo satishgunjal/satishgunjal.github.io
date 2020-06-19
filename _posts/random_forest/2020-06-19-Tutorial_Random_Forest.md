@@ -18,6 +18,8 @@ Random forest is supervised learning algorithm and can be used to solve classifi
 
 This tutorial is part of my 'Beginner Series Tutorials', I would recommend you to please go through [Decision Tree](https://satishgunjal.github.io/decision_tree/) tutorial first for better understanding.
 
+**Note: Source code used in this article is available at this [Kaggle Kernel](https://www.kaggle.com/satishgunjal/tutorial-random-forest#Classification-Problem-Example)**
+
 # Inner Workings Of Random Forest
 * Select few random sub sample from given dataset
 * Construct a decision tree for every sub sample and predict the result. To know more about 'decision tree' formation please refer [Inner Workings Of Decision Tree](https://satishgunjal.github.io/decision_tree/#inner-workings-of-decision-tree)
