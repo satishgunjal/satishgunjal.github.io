@@ -1,6 +1,6 @@
 ---
 title: 'Random Forest'
-date: 2020-06-18
+date: 2020-06-19
 permalink: /random_forest/
 tags:
   - Classification
