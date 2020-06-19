@@ -19,6 +19,7 @@ excerpt: "Machine learning tutorials"
  10. [Multiclass Logistic Regression Using Sklearn](https://satishgunjal.github.io/multiclass_lr_sklearn/)
  11. [Underfitting & Overfitting](https://satishgunjal.github.io/underfitting_overfitting/)
  12. [Decision Tree](https://satishgunjal.github.io/decistion_tree/)
+ 13. [Support Vector Machines](https://satishgunjal.github.io/svm/)
 
 ## Kaggle Projects
  1. [Multivariate Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/17PENXmVUKuh2stS6t17bJfVWRVTcuNYu?usp=sharing) 
