@@ -1,6 +1,6 @@
 ---
 title: 'Support Vector Machines'
-date: 2020-06-20
+date: 2020-06-26
 permalink: /svm/
 tags:
   - Classification
