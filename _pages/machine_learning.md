@@ -21,6 +21,10 @@ excerpt: "Machine learning tutorials"
  12. [Decision Tree](https://satishgunjal.github.io/decistion_tree/)
  13. [Random Forest](https://satishgunjal.github.io/random_forest/)
  14. [Support Vector Machines](https://satishgunjal.github.io/svm/)
+ 
+## Time Series
+ 1. [Time Series Analysis and Forecasting (ARIMA)](https://satishgunjal.github.io/time_series/)
+ 
 
 ## Kaggle Projects
  1. [Multivariate Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/17PENXmVUKuh2stS6t17bJfVWRVTcuNYu?usp=sharing) 
