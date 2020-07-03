@@ -15,6 +15,8 @@ excerpt: Any data recorded with some fixed interval of time is called as time se
 
 ---
 
+![Time_Series_Header](https://raw.githubusercontent.com/satishgunjal/images/master/Time_Series_Header_1000x690.png)
+
 # Table of Contents
 
 * [What is Time Series](#1)
