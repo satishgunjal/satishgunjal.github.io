@@ -49,6 +49,7 @@ excerpt: Any data recorded with some fixed interval of time is called as time se
     + [Moving Average (MA) Model](#28)
 * [Python Example](#29)
 
+
 # What is Time Series <a id ="1"></a>
 Any data recorded with some fixed interval of time is called as time series data. This fixed interval can be hourly, daily, monthly or yearly. e.g. hourly temp reading, daily changing fuel prices, monthly electricity bill, annul company profit report etc. In time series data, time will always be independent variable and there can be one or many dependent variable. 
 
