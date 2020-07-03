@@ -1,5 +1,5 @@
 ---
-title: 'Time Series Analysis and Forecasting (ARIMA)'
+title: 'Time Series Analysis and Forecasting'
 date: 2020-07-03
 permalink: /time_series/
 tags:
@@ -17,40 +17,6 @@ excerpt: Any data recorded with some fixed interval of time is called as time se
 
 ![Time_Series_Header](https://raw.githubusercontent.com/satishgunjal/images/master/Time_Series_Header_1000x690.png)
 
-# Table of Contents
-
-* [What is Time Series](#1)
-  - [Time Series Characteristics](#2)
-    + [Trend](#3) 
-    + [Seasonality](#4)
-    + [Irregularities](#5)
-    + [Cyclicity](#6)
-* [Time Series Analysis](#7)
-  - [Decomposition of Time Series](#8)
-  - [Stationary Data](#9)
-  - [Test for Stationarity](#10)
-    + [Rolling Statistics](#11)
-    + [Augmented Dickey Fuller Test](#12)
-  - [Convert Non Stationary Data to Stationary Data](#13)
-    + [Differencing](#14)
-    + [Transformation](#15)
-    + [Moving Average](#16)
-      + [Weighted Moving Averages(WMA)](#17)
-      + [Centered Moving Averages(CMS)](#18)
-      + [Trailing Moving Averages(TMA)](#19)
-  - [Correlation](#20)
-    + [ACF: Auto Correlation Function](#21)
-    + [PACF: Partial Auto Correlation Function](#22)
-* [Time Series Forecasting](#23)
-  - [Models Used For Time Series Forecasting](#24)
-  - [ARIMA](#25)
-    + [Auto-Regressive (AR) Model](#26)
-    + [Integration(I)](#27)
-    + [Moving Average (MA) Model](#28)
-* [Python Example](#29)
-
-
-# What is Time Series <a id ="1"></a>
 Any data recorded with some fixed interval of time is called as time series data. This fixed interval can be hourly, daily, monthly or yearly. e.g. hourly temp reading, daily changing fuel prices, monthly electricity bill, annul company profit report etc. In time series data, time will always be independent variable and there can be one or many dependent variable. 
 
 Sales forecasting time series with shampoo sales for every month will look like this, 
