@@ -18,7 +18,7 @@ excerpt: "Machine learning tutorials"
  9. [Binary Logistic Regression Using Sklearn](https://satishgunjal.github.io/binary_lr_sklearn/)
  10. [Multiclass Logistic Regression Using Sklearn](https://satishgunjal.github.io/multiclass_lr_sklearn/)
  11. [Underfitting & Overfitting](https://satishgunjal.github.io/underfitting_overfitting/)
- 12. [Decision Tree](https://satishgunjal.github.io/decistion_tree/)
+ 12. [Decision Tree](https://satishgunjal.github.io/decision_tree/)
  13. [Random Forest](https://satishgunjal.github.io/random_forest/)
  14. [Support Vector Machines](https://satishgunjal.github.io/svm/)
  
