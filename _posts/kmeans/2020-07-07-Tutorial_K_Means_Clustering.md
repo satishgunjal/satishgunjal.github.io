@@ -625,3 +625,5 @@ Isn't a GIF makes a K-Means clustering visualization even more satisfying!
 
 
 ![K_means_Clustering](https://raw.githubusercontent.com/satishgunjal/images/master/K_means_Clustering.gif)
+
+**Source code used in this article is available at this [Kaggle kernel]( https://www.kaggle.com/satishgunjal/tutorial-k-means-clustering#Python-Example-)**
