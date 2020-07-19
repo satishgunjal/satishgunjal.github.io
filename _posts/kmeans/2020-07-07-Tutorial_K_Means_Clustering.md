@@ -106,6 +106,8 @@ In Elbow method we run the K-Means algorithm multiple times over a loop, with an
 Now we will use k-means clustering algorithm on [mall customer unlabeled data](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python) to create groups of the customer based on annual spending and spending score assigned by the mall.
 We are going to use sklearns library for it.
 
+Feel free to copy and edit my [kaggle kernel](https://www.kaggle.com/satishgunjal/tutorial-k-means-clustering#Python-Example-) to test below code.
+
 ## Import The Library <a id ="11"></a>
 * pandas: Used for data manipulation and analysis
 * numpy : Numpy is the core library for scientific computing in Python. It is used for working with arrays and matrices.
