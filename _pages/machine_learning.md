@@ -22,6 +22,7 @@ excerpt: "Machine learning tutorials"
  13. [Random Forest](https://satishgunjal.github.io/random_forest/)
  14. [Support Vector Machines](https://satishgunjal.github.io/svm/)
  15. [K-Means Clustering](https://satishgunjal.github.io/kmeans/)
+ 16. [K Fold Cross Validation](https://satishgunjal.github.io/kfold/)
  
 ## Time Series
  1. [Time Series Analysis and Forecasting (ARIMA)](https://satishgunjal.github.io/time_series/)
