@@ -306,4 +306,4 @@ lm.score(X_train, y_train)
 * Higher score is misleading in this case.
 * Model which dont use separate dataset for testing may have higher performance score but it wont generalize well and give misleading predictions with real world data.
 
-Hence, forward in all the tutorials we are going to use training and test dataset for model training and testing.
+Hence forward, in all the tutorials we are going to use training and test dataset for model training and testing.
