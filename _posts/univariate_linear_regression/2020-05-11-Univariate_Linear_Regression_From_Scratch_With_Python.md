@@ -261,8 +261,7 @@ plt.title('Scatter plot of training data')
 * Please note we have to use above function for every value of training example to get predicted value. 
 * Using for loop to do the calculations will take lots of time. Matrix operations are much faster than loops. 
 * If we represent the input values(X) and theta values in matrix format then **Xθ** (X matrix multiply by θ vector) will give us predicted value for every training example.
-* This is also called as vector implementation of equation.
- 
+* This is also called as vector implementation of equation. 
 * Lets create X and theta matrix using available values. Dimension of X matrix is (2 x 1)
 
   ![X_matrix_2x1.png](https://raw.githubusercontent.com/satishgunjal/Images/master/X_matrix_2x1.png)
