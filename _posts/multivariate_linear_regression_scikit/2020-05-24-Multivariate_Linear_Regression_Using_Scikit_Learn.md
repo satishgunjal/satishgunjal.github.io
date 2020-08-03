@@ -40,8 +40,8 @@ Where,
  
 * Both the hypothesis function use 'x' to represent input values or features
 * y(w, x) =  h(θ, x) = Target or output value
-* w_0 = θ__0  =  intercept or Y intercept
-* w_1 to w_n = θ__1 to θ__n =  coef or slope/gradient
+* w_0 = θ_0  =  intercept or Y intercept
+* w_1 to w_n = θ_1 to θ_n =  coef or slope/gradient
 
 ## **Python Code**
  
