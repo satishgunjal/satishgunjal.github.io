@@ -38,7 +38,7 @@ For multiple input value, hypothesis function will look like,
  
 ```
 h(x) = theta_0 + theta_1 * x_1 + theta_2 * x_2 .....theat_n * x_n
-where x_1, x_2...x_n are multiple input valus
+where x_1, x_2...x_n are multiple input values
 ```
 If we consider the house price example then the factors affecting its price like house size, no of bedrooms, location etc are nothing but input variables of above hypothesis function.
  
