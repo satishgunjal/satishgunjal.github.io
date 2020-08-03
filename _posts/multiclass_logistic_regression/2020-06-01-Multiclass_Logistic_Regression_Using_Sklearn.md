@@ -18,9 +18,9 @@ In this study we are going to use the Linear Model from Sklearn library to perfo
 
 
 # Introduction
-When outcome has more than to categories, Multi class regression is used for classification. For e.g. mail classification as primary, social, promotions, forums. We are going to use One Vs Rest (OVR) algorithm.
- 
-This is also called as one vs all algorithm. As name suggest in this algorithm we choose one class and put all other classes into second virtual class and run the binary logistic regression on it. We repeat this procedure for all the classes in the dataset. So we actually end up with binary classifiers designed to recognize each class in dataset
+When outcome has more than to categories, Multi class regression is used for classification. For e.g. mail classification as primary, social, promotions, forums. 
+
+We are going to use One Vs Rest (OVR) algorithm also known as one vs all algorithm. As name suggest in this algorithm we choose one class and put all other classes into second virtual class and run the binary logistic regression on it. We repeat this procedure for all the classes in the dataset. So we actually end up with binary classifiers designed to recognize each class in dataset
  
 For prediction on given data, our algorithm returns probabilities for each class in the dataset and whichever class has the highest probability is our prediction
 
