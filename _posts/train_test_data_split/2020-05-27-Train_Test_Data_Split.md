@@ -255,14 +255,6 @@ plt.legend()
 ![png](https://raw.githubusercontent.com/satishgunjal/images/master/training_vs_test_data_for_height_feature.png)
 
 
-### What Is random_state
-* It is used for initializing the internal random number generator, which will decide the splitting of data into train and test datasets
-* Order of the data will be same for a particular value of random_state. For e.g. for 'random_state=1' no matter how many times you run the code you will get same data in training and test split
-* You can use any integer value for random_state. Just remember one thing if you don't pass any value, then it will use default value 'None' and split data randomly every time you execute the code.
- 
-
-
-
 ### Linear Model Training Using Training Dataset
 Since we have training and test dataset ready, lets use training dataset for linear model training.
 
