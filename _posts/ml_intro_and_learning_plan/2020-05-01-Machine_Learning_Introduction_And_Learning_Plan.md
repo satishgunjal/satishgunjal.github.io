@@ -30,7 +30,7 @@ Unlike traditional fixed rule based programming machine learning is a science of
  
 ## **Why Should We Learn It?**
  
-You must have heard the buzzword **"Data Is New Oil"**. So if data is going to be a new oil machine learning is the best tool to make use of exabytes of data generated every day
+You must have heard the buzzword **"Data Is New Oil"**. So if data is going to be a new oil, machine learning is the best tool to make use of exabytes of data generated every day
  
 Any individual, organization or a country must use the machine learning tools to analyze the data so that they can make well-informed decision. If they failed to do it they will be left behind.
  
@@ -48,7 +48,7 @@ Since scikit-learn library has all the machine learning algorithms implemented, 
 
 In all my tutorials I am going to use some mathematical models and python code to test the algorithms. You don't need to be professional programmer. If you have any kind of programming experience then you should be able to understand the examples.
  
-During this course you will learn many new concept and use many new libraries likes panda, numpy etc. I will try to explain everything in detail in my tutorials.
+During this course you will learn many new concept and use many new libraries likes pandas, numpy etc. I will try to explain everything in detail in my tutorials.
 
 
 Without further ado lets start with it...
@@ -65,7 +65,7 @@ Machine learning is subset of Artificial intelligence. To solve machine learning
  
 ![machine_learning_venn.png](https://github.com/satishgunjal/images/blob/master/Machine_Learning_Venn.png?raw=true)
  
-##**Supervised Learning**
+## **Supervised Learning**
  
 In supervised learning our dataset contains the input values and expected output values. For example consider below dataset of house size and price
  
@@ -77,21 +77,21 @@ size(sqft) | price(K)
  
 So in supervise learning we have to understand the relationship between input and output values so that we can predict the values based on input data.
 Regression and classification are two types of supervised learning problems
-* **Regression problem**: If the prediction is some kind of continuous value like price of the house then it is called as regression problem
+* **Regression problem**: If the prediction is some kind of continuous value, like price of the house then it is called as regression problem
  
-* **Classification problem**: If the prediction is some kind of classification like house will sale or not then it is called as classification problem
+* **Classification problem**: If the prediction is some kind of classification like house will sale or not, then it is called as classification problem
  
 ![regression_vs_classification.png](https://github.com/satishgunjal/images/blob/master/Regression_vs_Classification.png?raw=true)
  
 ## **Unsupervised Learning**
  
-In case of unsupervised learning our dataset is without any set of output values or labels. Unsupervised learning is a learning setting where we give the algorithm a ton of unlabeled data and ask it to find some kind of structure in it.
+In case of unsupervised learning our dataset is without any set of output values or labels. Unsupervised learning is a learning setting, where we give the algorithm a ton of unlabeled data and ask it to find some kind of structure in it.
  
 Since our data is unlabeled unsupervised learning allows us to approach a problem with little or no idea what our result should look like
  
 Clustering and association are two type of unsupervised learning problems
  
-* **Clustering**: Clustering problem is used to fin inherent grouping in data. e.g. In case of e-commerce finding a group of customers based on purchasing behavior
+* **Clustering**: Clustering problem is used to find inherent grouping in data. e.g. In case of e-commerce, finding a group of customers based on purchasing behavior
  
 * **Association**: Association problem is used to find rules that describe the large portions of data. e.g. In e-commerce finding a rule, why customers that buy X items also tends to buy Y items
 
