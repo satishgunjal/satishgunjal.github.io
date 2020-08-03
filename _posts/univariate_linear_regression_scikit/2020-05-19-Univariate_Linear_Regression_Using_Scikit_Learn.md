@@ -280,16 +280,16 @@ plt.legend()
 
 #### **Manual Calculations**
 
-* Hypothesis function is $\hat{y}$(w, x) = w_0 + w_1 * x_1 
+* Hypothesis function is y(w, x) = w_0 + w_1 * x_1 
 * Predicted values from model are,
   * θ_1(coef) = 1.19303364
   * θ_0(intercept) = -3.89578087831185
 * x_1 = 3.5 (remember all our values are in multiples ok 10,000)
-* $\hat{y}$(w, x) = (-3.89578087831185) + (1.19303364 * 3.5)
-* $\hat{y}$(w, x)  = 0.27983686168815
+* y(w, x) = (-3.89578087831185) + (1.19303364 * 3.5)
+* y(w, x)  = 0.27983686168815
 * Since all our values are in multiples of 10,000
-  * $\hat{y}$(w, x) = 0.27983686168815 * 10000
-  * $\hat{y}$(w, x) = 2798.3686168815
+  * y(w, x) = 0.27983686168815 * 10000
+  * y(w, x) = 2798.3686168815
 
 * For population = 35,000, we predict a profit of 2798.3686168815
 
@@ -401,4 +401,4 @@ print("For population = 35,000, our prediction of profit is", predict1 * 10000)
 
 ## **Conclusion**
  
-As you can notice with Sklearn library we have very less work to do and everything is handled by library. We don't have to add column of ones, no need to write our cost function or gradient descent algorithm. We can directly use library and tune the hyper parameters (like changing the value of alpha) till the time we get satisfactory results. If you are following my machine learning tutorials from the beginning then implementing our own gradient descent algorithm and then using prebuilt models like Ridge or LASSO gives us very good perspective of inner workings of these libraries and hopeful it will help you understand it better.
+As you can notice with Sklearn library we have very less work to do and everything is handled by library. We don't have to add column of ones, no need to write our cost function or gradient descent algorithm. We can directly use library and tune the hyper parameters (like changing the value of alpha) till the time we get satisfactory results. If you are following my machine learning tutorials from the beginning then implementing our own gradient descent algorithm and then using prebuilt models like Ridge or LASSO gives us very good perspective of inner workings of these libraries and hopeful it will help you to understand it better.
