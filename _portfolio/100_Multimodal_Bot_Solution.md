@@ -2,15 +2,7 @@
 title: "Multimodal Bot Solution"
 excerpt: "Multimodal bot solution uses bot framework like Google Dialogflow and custom designed adapters to publish bot across variety of channels"
 header:
-  image: https://raw.githubusercontent.com/satishgunjal/images/master/Multimodal_Bot_Solution_Architecture.png
   teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Multiodal_Bot_Solution_Teaser_421x410.png
-sidebar:
-  - title: "Role"
-    image: https://raw.githubusercontent.com/satishgunjal/images/master/Multiodal_Bot_Solution_Teaser_421x410.png
-    image_alt: "logo"
-    text: "Architect"
-  - title: "Responsibilities"
-    text: "Design and develope the chatbot solution and lead the team"
 ---
 
 Multimodal bot solution is designed from gound up to utilize bot framework like Google dialogflow and create text and speech based conversation AI interface across variety of channels. Statergy was to start with very basic form of chatbot like FQA bot and utilize existing framework to create it. Once we gain the experties to create directive dialog chatbot we started working on conversatiobal AI chatbots. We finalized the Google dialogflow framework as our main bot frameworks and created the conversational bots.
@@ -23,6 +15,12 @@ So once we gain the expertise in dialohflow API, we modifed our adapters to hand
 This made our bot applications fulproof and created solid base for building feature rich bots for our customers. 
 
 I am now working on final part of this statergy where I would like to create our own NLU engine using opensource API like RASA to handle the intent matching and entity extraction. Since we are already gain the expertise to handle channel session management, external webhook management and event management we need our NLU engine to do intent matching and entity extraction only. This is still work in progress.
+
+# Role & Responsibilities
+* Architect
+* Design and develope the chatbot solution and lead the team
+* Lead the chat bot projects and POC
+* Partner collaboration
 
 # Multimodal Bot Architecture
 High level architecture of multimodal bot solution is as below
