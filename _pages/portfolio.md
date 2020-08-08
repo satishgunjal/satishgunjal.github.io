@@ -7,4 +7,5 @@ entries_layout: grid
 classes: wide
 ---
 
-During my 14+ years of carreer I have worked on variety of products, projects and POC's. Few of them are as below,
+During my 14+ years of career I have worked on variety of products, projects and POC's. Few of them are as below,
+
