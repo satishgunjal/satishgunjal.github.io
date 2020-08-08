@@ -14,7 +14,7 @@ header:
 
 My name Satish Gunjal. I am passionate about technology, particularly about machine learning and electric cars. I love programming and building things!
 
-Formally educated as an engineer and now working in an IT company with than 13 years of experience. 
+Formally educated as an engineer and now working in an IT company with than 14 years of experience. 
 
 Whenever I am learning something new or preparing for new project, I have a habit of taking notes. In today's always online world there is no shortage of content about any subject. For our single sentence query Google shows millions of results within few milliseconds! Problem is finding the good quality content from that mess.
 
