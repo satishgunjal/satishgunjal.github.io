@@ -1,16 +1,16 @@
 ---
-title: "Baz Boom Identity"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Multimodal Bot Solution"
+excerpt: "Multimodal bot solution uses bot framework like Google Dialogflow and custome designed adapters to publish bot across variety of channels"
 header:
-  image: https://raw.githubusercontent.com/satishgunjal/Wearable-Recording-Device/master/images/WRD_Header.jpg
-  teaser: https://raw.githubusercontent.com/satishgunjal/Wearable-Recording-Device/master/images/WRD_Header.jpg
+  image: https://raw.githubusercontent.com/satishgunjal/images/master/Multimodal_Bot_Solution_Architecture.png
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Multiodal_Bot_Solution_Teaser_421x410.png
 sidebar:
   - title: "Role"
-    image: https://raw.githubusercontent.com/satishgunjal/Wearable-Recording-Device/master/images/WRD_Header.jpg
+    image: https://raw.githubusercontent.com/satishgunjal/images/master/Multiodal_Bot_Solution_Teaser_421x410.png
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    text: "Architect"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "STarting chatbot practice, design and develope the chatbot solution and lead the team"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
