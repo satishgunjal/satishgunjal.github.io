@@ -1,6 +1,6 @@
 ---
 title: "Multimodal Bot Solution"
-excerpt: "Multimodal bot solution uses bot framework like Google Dialogflow and custome designed adapters to publish bot across variety of channels"
+excerpt: "Multimodal bot solution uses bot framework like Google Dialogflow and custom designed adapters to publish bot across variety of channels"
 header:
   image: https://raw.githubusercontent.com/satishgunjal/images/master/Multimodal_Bot_Solution_Architecture.png
   teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Multiodal_Bot_Solution_Teaser_421x410.png
