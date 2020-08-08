@@ -2,8 +2,10 @@
 title: "Multimodal Bot Solution"
 excerpt: "Multimodal bot solution uses bot framework like Google Dialogflow and custom designed adapters to publish bot across variety of channels"
 header:
-  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Multimodal_Bot_Solution_Architecture.png
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Multimodal_Bot_Solution_Header.png
 ---
+
+![Multimodal_Bot_Solution_Header](https://raw.githubusercontent.com/satishgunjal/images/master/Multimodal_Bot_Solution_Header.png)
 
 Multimodal bot solution is designed from ground up to utilize bot framework like Google dialogflow and create text and speech based conversation AI interface across variety of channels. Strategy was to start with directive dialog chatbot and FAQ bot and utilize existing framework to create it. Once we gain the expertise to create directive dialog chatbot we started working on conversational AI chatbots. We finalized the Google dialogflow framework as our main bot framework and created the conversational bots.
 
