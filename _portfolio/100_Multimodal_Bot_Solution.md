@@ -10,21 +10,29 @@ sidebar:
     image_alt: "logo"
     text: "Architect"
   - title: "Responsibilities"
-    text: "STarting chatbot practice, design and develope the chatbot solution and lead the team"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    text: "Design and develope the chatbot solution and lead the team"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Multimodal bot solution is designed from gound up to utilize bot framework like Google dialogflow and create text and speech based conversation AI interface across variety of channels. Statergy was to start with very basic form of chatbot like FQA bot and utilize existing framework to create it. Once we gain the experties to create directive dialog chatbot we started working on conversatiobal AI chatbots. We finalized the Google dialogflow framework as our main bot frameworks and created the conversational bots.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Designing the conversational experience was the one of the major challenge, we faced while working on conversational bot development. We ended up creating our own design pattern, which uses the traditional statemachine approach along with dialogflow specific features like context to add mnemory to bot and increase the intent matching accuracy.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+One we were able to develope the conversational bot we have decided to start building our own connector for end channels. We have created the custom adapters for Viber and WhatsApp channel. This was most important milestone as it eliminated our dependancy on dialogflow provided channels. When we use inbuilt dialoflow connectors then we loose the control over the session management, webhook timeout, handling channel specific events.
+
+So once we gain the expertise in dialohflow API, we modifed our adapters to handle channel session management, webhook management and addding channel specific custom events.
+This made our bot applications fulproof and created solid base for building feature rich bots for our customers. 
+
+I am now working on final part of this statergy where I would like to create our own NLU engine using opensource API like RASA to handle the intent matching and entity extraction. Since we are already gain the expertise to handle channel session management, external webhook management and event management we need our NLU engine to do intent matching and entity extraction only. This is still work in progress.
+
+# Multimodal Bot Architecture
+High level architecture of multimodal bot solution is as below
+
+![Multimodal_Bot_Solution_Architecture](https://raw.githubusercontent.com/satishgunjal/images/master/Multimodal_Bot_Solution_Architecture.png)
+
+* This can be imlemented on premise or on cloud
+* User can use speech or text to comminicate with the bot.
+* Our platform supports almost all the possible channels like website bot, social medial channels, Google assitance and even smart speakers
+* We can use reverse proxy for 
+
+
+
