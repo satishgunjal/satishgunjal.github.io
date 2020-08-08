@@ -1,5 +1,5 @@
 ---
-title: "2 Baz Boom Identity"
+title: "Baz Boom Identity"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: https://raw.githubusercontent.com/satishgunjal/Wearable-Recording-Device/master/images/WRD_Header.jpg
