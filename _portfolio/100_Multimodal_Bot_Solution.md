@@ -19,12 +19,6 @@ This made our bot applications foolproof and created solid base for building fea
 
 I am now working on final part of this strategy where I would like to create our own NLU engine using open source API like RASA to handle the intent matching and entity extraction. Since we have already gained the expertise to handle channel session management, external web hook and event management we need our NLU engine to do intent matching and entity extraction only. This is still work in progress.
 
-# Role & Responsibilities
-* Architect
-* Design and develop the chatbot solution and lead the team
-* Lead the chatbot projects and POC
-* Partner collaboration
-
 # Multimodal Bot Architecture
 High level architecture of multimodal bot solution is as below
 
@@ -40,3 +34,20 @@ High level architecture of multimodal bot solution is as below
 * Bot works on request response basic. Each adapter will keep listening for any communication from the user, these messages come in the form of events. Adapter will parse the response from the events and send the user input to dialogflow agent. Response from the dialogflow agent will be sent back to the user using 'send API'. 
 * If required, bot adapter can log the custom business logic related data for reporting purpose. 
 * We can also add the agent transfer functionality by using socket.io or WebRTC protocols.
+
+# Role
+* Architect & product owner
+* Individual contributor and manager
+
+# Responsibilities
+* Design and develop the chatbot solution and lead the team
+* Lead the chatbot projects and POC
+* Partner collaboration
+
+# Tech Stack
+* Google Dialogflow
+* Eudata
+* Node.js
+* Python
+* Machine Learning
+* RASA NLU
