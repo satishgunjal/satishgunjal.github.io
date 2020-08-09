@@ -1,8 +1,8 @@
 ---
 title: Tutorials
 layout: collection
-permalink: /post/
-collection: post
+permalink: /posts/
+collection: posts
 entries_layout: grid
 classes: wide
 ---
