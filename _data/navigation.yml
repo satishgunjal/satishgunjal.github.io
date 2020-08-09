@@ -9,7 +9,7 @@ main:
   - title: "About"
     url: /about_me/
   - title: "Tutorials"
-    url: /tutorials/
+    url: /posts/
   #- title: "About1"
   # url: /about1/
   #- title: "Sample Posts"
