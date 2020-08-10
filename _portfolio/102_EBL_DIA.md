@@ -9,7 +9,7 @@ header:
 
 This bot is based on 'Multimodal Bot solution' architecture. But since it's a project designed and developed based on customer specific requirements there few changes in the architecture. Bot is developed using Dialogflow console and supports Facebook Messenger and Viber messenger channels. Here we are using inbuilt Dialogflow Facebook connector and since Viber connector is no more supported by the Google we have created customer Viber connector using DIalogflow and Viber API. We also have backend integrations with the customer provided REST web services. Since customer provided web services returns the response withing 5 sec, we have kept the web hook integration inside the Dialogflow itself.
 
-# Dialogflow Facebook Messenger Architecture
+# Facebook Channel Architecture
 Dialogflow and Facebook Messenger high level architecture is as below. Here we are using Dialogflow inbuilt Facebook Messenger connector.
 
 ![Multimodal_Bot_Solution_Header](https://raw.githubusercontent.com/satishgunjal/images/master/EBL_DIA_Facebook.png)
@@ -23,7 +23,7 @@ Dialogflow and Facebook Messenger high level architecture is as below. Here we a
 * This will enable Facebook to send any message received in our bot, to Dialogflow for intent matching, entity extraction and generating the final response
 * Dialogflow connector will send the response back to user using 'Facebook Messenger API'
 
-# Dialogflow Viber Messenger Architecture
+#  Viber Channel Architecture
 Dialogflow and Viber messenger high level architecture is as below. Here we are using custom Viber messenger connector.
 
 ![Multimodal_Bot_Solution_Header](https://raw.githubusercontent.com/satishgunjal/images/master/EBL_DIA_Viber.png)
@@ -33,13 +33,16 @@ Dialogflow and Viber messenger high level architecture is as below. Here we are 
 * Viber connector is a node.js application with Dialogflow and Viber API integration.
 
 ### [Dialogflow API Integration](https://cloud.google.com/dialogflow/docs/reference/rest/v2-overview)
+
 * We will use below Dialogflow API modules
   ```
   const dialogflow = require('dialogflow');
   ```
 * Every message received through Viber API will be sent to Dialogflow to get the response
 * Response received from Dialogflow is sent back to the user
+
 ### [Viber API Integration](https://developers.viber.com/docs/api/rest-bot-api/#message-types)
+
 * We will be using below Viber API modules 
   ```
   const ViberBot = require('viber-bot').Bot;
