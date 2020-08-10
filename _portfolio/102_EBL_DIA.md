@@ -62,6 +62,7 @@ Dialogflow and Viber messenger high level architecture is as below. Here we are 
 * Lead the project and support team
 
 # Tech Stack
-* Google Dialogflow
+* Google Dialogflow Console
+* Dialogflow & Viber REST API
 * Node.js
 * MS SQL Server
