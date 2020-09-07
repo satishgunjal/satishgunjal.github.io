@@ -50,9 +50,12 @@ High level architecture of multimodal bot solution is as below
 * Partner collaboration
 * Responding to RFP
 
-# Tech Stack
+# Tech Stack & Tools Used
 * Google Dialogflow
 * Eudata
 * Node.js
 * Python
 * Machine Learning
+* VS Code
+* Postman
+
