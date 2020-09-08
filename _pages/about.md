@@ -12,7 +12,7 @@ header:
   
 ---
 
-My name Satish Gunjal. I am passionate about technology, particularly about machine learning and electric cars. I love programming and building things!
+My name is Satish Gunjal. I am passionate about technology, particularly about machine learning and electric cars. I love programming and building things!
 
 Formally educated as an engineer and now working in an IT company with than 14 years of experience. 
 
