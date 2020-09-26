@@ -1,13 +1,13 @@
 ---
-title: "EBL DIA (Facebook, Viber)"
-excerpt: "EBL DIA is the digital assistance created for EBL bank, and its available on Facebook Messenger and Viber Messenger"
+title: "Banking Bot Published on Facebook and Viber"
+excerpt: "Created this core banking digital assistance for leading bank in Bangladesh. Bank decided to make it publicaly avilable on Facebook and Viber Messenger"
 header:
-  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Banking_Bot_Header.png
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Banking_Bot_Header1.png
 ---
 
 ![Multimodal_Bot_Solution_Header](https://raw.githubusercontent.com/satishgunjal/images/master/EBL_DIA_Header.png)
 
-This bot is based on 'Multimodal Bot solution' architecture. But since it's a project designed and developed based on customer specific requirements there few changes in the architecture. Bot is developed using Dialogflow console and supports Facebook Messenger and Viber messenger channels. Here we are using inbuilt Dialogflow Facebook connector and since Viber connector is no more supported by the Google we have created customer Viber connector using DIalogflow and Viber API. We also have backend integrations with the customer provided REST web services. Since customer provided web services returns the response withing 5 sec, we have kept the web hook integration inside the Dialogflow itself.
+This bot is based on 'Multimodal Bot solution' architecture. But since it's a project designed and developed based on customer specific requirements there are few changes in the architecture. Bot is developed using Dialogflow console and supports Facebook and Viber messenger channels. Here we are using inbuilt Dialogflow Facebook connector and since Viber connector is no more supported by the Google we have created customer Viber connector using Dialogflow and Viber API. We also have backend integrations with the customer provided REST API for core banking. Since customer provided web services returns the response withing 5 sec, we have kept the web hook integration inside the Dialogflow itself.
 
 # Facebook Channel Architecture
 Dialogflow and Facebook Messenger high level architecture is as below. Here we are using Dialogflow inbuilt Facebook Messenger connector.
