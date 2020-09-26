@@ -2,7 +2,7 @@
 title: "EBL DIA (Facebook, Viber)"
 excerpt: "EBL DIA is the digital assistance created for EBL bank, and its available on Facebook Messenger and Viber Messenger"
 header:
-  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/EBL_DIA_Header.png
+  teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Banking_Bot_Header.png
 ---
 
 ![Multimodal_Bot_Solution_Header](https://raw.githubusercontent.com/satishgunjal/images/master/EBL_DIA_Header.png)
