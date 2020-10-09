@@ -1,6 +1,5 @@
 ---
 permalink: /machine_learning/
-title: "Machine Learning"
 author_profile: true
 layout: single
 excerpt: "Machine learning tutorials"
@@ -10,13 +9,18 @@ excerpt: "Machine learning tutorials"
 ![Learning_Header](https://raw.githubusercontent.com/satishgunjal/images/master/Learning_Header.png)
 
 All my AI/ML/NLP related articles, tutorials and Kaggle kernel and notebooks details are avilable below. Source code is in python and datasets are mainly from Kaggle.
+# Index
+* [Machine Learning Algorithms](#1)
+* [Natural Language Processing](#2)
+* [Time Series Analysis](#3)
+* [Machine Learning Projects](#4)
+* [Other Articles](#5)
 
-* [Tutorials for Beginners](#1)
+
+# Machine Learning Algorithms <a id ="1"></a>
 
 This series is for absolute beginers. I have created a learning plan and tried to explain every concept from basics. Few tutorials also contain the end-to-end algorithms without using any library for better understanding and intuition. You will also learn using **scikit-learn** a free software machine learning library at the end of this series.
 
-
-## Tutorials for Beginners <a id ="1"></a>
  1. [Introduction and Learning Plan](https://satishgunjal.github.io/ml_intro/)
  2. [Univariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/univariate_lr/)
  3. [Multivariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/multivariate_lr/)
@@ -33,11 +37,14 @@ This series is for absolute beginers. I have created a learning plan and tried t
  14. [Support Vector Machines](https://satishgunjal.github.io/svm/)
  15. [K-Means Clustering](https://satishgunjal.github.io/kmeans/)
  16. [K Fold Cross Validation](https://satishgunjal.github.io/kfold/)
+
+# Natural Language Processing <a id ="2"></a>
  
-## Time Series
+# Time Series Analysis <a id ="3"></a>
  1. [Time Series Analysis and Forecasting (ARIMA)](https://satishgunjal.github.io/time_series/)
  
-
-## Kaggle Projects
+# Machine Learning Projects <a id ="4"></a>
  1. [Multivariate Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/17PENXmVUKuh2stS6t17bJfVWRVTcuNYu?usp=sharing) 
  2. [Polynomial Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/122RctNobBy-GdOkDVCka-7NHm5NfCIPs?usp=sharing)
+ 
+# Other Articles <a id ="5"></a>
