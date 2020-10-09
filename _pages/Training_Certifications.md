@@ -77,6 +77,14 @@ gallery_Avaya:
   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Avaya_Call_Management_System_Administration.png
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Avaya_Call_Management_System_Administration.png
     alt: "Avaya Avaya Call Management System Administration"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_Avaya_Call_Management_System_Administration_Assessment.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_Avaya_Call_Management_System_Administration_Assessment.png
+    alt: "Avaya Call Management System Administration Assessment"    
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Customizing_CMS_Reports_Workshop.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Customizing_CMS_Reports_Workshop.png
+    alt: "Avaya Customizing CMS Reports Workshop"
 
 ---
 
