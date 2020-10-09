@@ -47,6 +47,23 @@ gallery_Cisco:
   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_4_Creating_Custom_Components_in_CVP_Studio.png
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_4_Creating_Custom_Components_in_CVP_Studio.png
     alt: "CVP 4.0 Course 4 Creating Custom Components in CVP Studio"
+    
+gallery_Genesys:
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Framework_Installation_and_Configuration.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Framework_Installation_and_Configuration.png
+    alt: "Genesys Framework Installation and Configuration"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Framework_Overview.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Framework_Overview.png
+    alt: "Genesys Framework Overview"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Outbound_Campaign_Management.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Outbound_Campaign_Management.png
+    alt: "Genesys Outbound Campaign Management"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Outbound_Contact_Installation_and_Configuration.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Outbound_Contact_Installation_and_Configuration.png
+    alt: "Genesys Outbound Contact Installation and Configuration"
 
 ---
 
@@ -58,12 +75,16 @@ gallery_Cisco:
 
 # Natural Language Processing, Chatbot
 
-{% include gallery id="gallery_NLP_Chatbot" caption="" %}
+{% include gallery id="gallery_NLP_Chatbot" layout="half" caption="" %}
 
 # Cloud
 
-{% include gallery id="gallery_Cloud" caption="" %}
+{% include gallery id="gallery_Cloud" layout="half" caption="" %}
 
 # Cisco CVP
 
-{% include gallery id="gallery_Cisco" caption="" %}
+{% include gallery id="gallery_Cisco" layout="half" caption="" %}
+
+# Genesys Inbound and Outbound
+
+{% include gallery id="gallery_Genesys" layout="half" caption="" %}
