@@ -48,3 +48,4 @@ This series is for absolute beginers. I have created a learning plan and tried t
  2. [Polynomial Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/122RctNobBy-GdOkDVCka-7NHm5NfCIPs?usp=sharing)
  
 # Other Articles <a id ="5"></a>
+ 1. [Agile Scrum Framework](https://satishgunjal.github.io/agile_scrum/)
