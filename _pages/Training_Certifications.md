@@ -4,22 +4,28 @@ title: "Training & Certifications"
 author_profile: true
 layout: single
 excerpt: "Training & Certifications"
-gallery2:
-  - url: https://flic.kr/p/8a6Ven
-    image_path: https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg
-    alt: "Black and grays with a hint of green"
-  - url: https://flic.kr/p/8a738X
-    image_path: https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg
-    alt: "Made for open text placement"
-  - url: https://flic.kr/p/8a6VXP
-    image_path: https://farm5.staticflickr.com/4046/4697502929_72c612c636_q.jpg
-    alt: "Fog in the trees"
+gallery_ML:
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_aws_the_elements_of_data_science_certificate.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_aws_the_elements_of_data_science_certificate.png
+    alt: "The Elements of Data Science Certificate"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_machine_learning.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_machine_learning.png
+    alt: "Coursera Machine Learning by Andrew Ng"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_kaggle_intermediate_machine_learning.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_kaggle_intermediate_machine_learning.png
+    alt: "Intermediate Machine Learning"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_kaggle_intro_to_machine_learning.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_kaggle_intro_to_machine_learning.png
+    alt: "Intro to Machine Learning"
 
 ---
 
-# AL/ML/NLP
+# Machine Learning
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery_ML" caption="" %}
 
 ## Machine Learning
 * Issuing authority: Coursera
