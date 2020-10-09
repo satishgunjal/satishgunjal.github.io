@@ -20,16 +20,29 @@ gallery_ML:
   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_kaggle_intro_to_machine_learning.png
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_kaggle_intro_to_machine_learning.png
     alt: "Intro to Machine Learning"
+    
+gallery_NLP_Chatbot:
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_building_conversational_experiences_with_dialogflow.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_building_conversational_experiences_with_dialogflow.png
+    alt: "Building Conversational Experiences with Dialogflow"
+    
+gallery_Cloud:
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_aws_fundamentals_going_cloud_native.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_aws_fundamentals_going_cloud_native.png
+    alt: "AWS Fundamentals Going Cloud Native"
 
 ---
+
+
 
 # Machine Learning
 
 {% include gallery id="gallery_ML" caption="" %}
 
-## Machine Learning
-* Issuing authority: Coursera
-* Credential ID: 3YQLFAXP5LL7
-* Issued date: Apr 2020
-* [See Credential](https://www.coursera.org/account/accomplishments/certificate/3YQLFAXP5LL7)
+# Natural Language Processing, Chatbot
 
+{% include gallery id="gallery_NLP_Chatbot" caption="" %}
+
+# Cloud
+
+{% include gallery id="gallery_Cloud" caption="" %}
