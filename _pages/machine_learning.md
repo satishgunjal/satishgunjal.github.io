@@ -6,7 +6,13 @@ layout: single
 excerpt: "Machine learning tutorials"
 
 ---
-## Tutorials For Beginners
+
+* [Tutorials for Beginners](#1)
+
+This series is for absolute beginers. I have created a learning plan and tried to explain every concept from basics. Few tutorials also contain the end-to-end algorithms without using any library for better understanding and intuition. You will also learn using **scikit-learn** a free software machine learning library at the end of this series.
+
+
+## Tutorials for Beginners <a id ="1"></a>
  1. [Introduction and Learning Plan](https://satishgunjal.github.io/ml_intro/)
  2. [Univariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/univariate_lr/)
  3. [Multivariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/multivariate_lr/)
