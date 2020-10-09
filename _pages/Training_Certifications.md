@@ -64,39 +64,7 @@ gallery_Genesys:
   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Outbound_Contact_Installation_and_Configuration.png
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_genesys_Outbound_Contact_Installation_and_Configuration.png
     alt: "Genesys Outbound Contact Installation and Configuration"
-    
-gallery_Avaya:
-  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Administer_Voice_Portal.png
-    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Administer_Voice_Portal.png
-    alt: "Avaya Administer Voice Portal"
-    
-  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Administer_Voice_Portal_Assessment.png
-    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Administer_Voice_Portal_Assessment.png
-    alt: "Avaya Administer Voice Portal Assessment"
-    
-  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Avaya_Call_Management_System_Administration.png
-    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Avaya_Call_Management_System_Administration.png
-    alt: "Avaya Avaya Call Management System Administration"
-    
-  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_Avaya_Call_Management_System_Administration_Assessment.png
-    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_Avaya_Call_Management_System_Administration_Assessment.png
-    alt: "Avaya Call Management System Administration Assessment"    
-    
-  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Customizing_CMS_Reports_Workshop.png
-    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Customizing_CMS_Reports_Workshop.png
-    alt: "Avaya Customizing CMS Reports Workshop"
-    
-    - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Customizing_CMS_Reports_Workshop_1.png
-    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Customizing_CMS_Reports_Workshop_1.png
-    alt: "Avaya Customizing CMS Reports Workshop 1"
-    
-    - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Designing_Avaya_Self_Service_Solutions_AVA00807WEN.png
-    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_Designing_Avaya_Self_Service_Solutions_AVA00807WEN.png
-    alt: "Avaya Designing Avaya Self Service Solutions AVA00807WEN"
-    
-   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_VoiceXML_for_Avaya_Self_Service_Solutions.png
-    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_VoiceXML_for_Avaya_Self_Service_Solutions.png
-    alt: "Avaya VoiceXML for Avaya Self Service Solutions"
+  
 
 ---
 
