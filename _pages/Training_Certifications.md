@@ -97,6 +97,11 @@ gallery_Avaya:
   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_VoiceXML_for_Avaya_Self_Service_Solutions.png
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_avaya_VoiceXML_for_Avaya_Self_Service_Solutions.png
     alt: "Avaya VoiceXML for Avaya Self Service Solutions"
+    
+gallery_Languages:
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_language_Developing_Microsoft_ASP_NET_Web_Applications_Using_Visual_Studio_NET.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_language_Developing_Microsoft_ASP_NET_Web_Applications_Using_Visual_Studio_NET.png
+    alt: "Developing Microsoft ASP.NET Web Applications Using Visual Studio .NET"
 
 ---
 
@@ -125,3 +130,7 @@ List of trainings and certificates.
 # Avaya Inbound and Outbound
 
 {% include gallery id="gallery_Avaya" layout="half" caption="" %}
+
+# Programming Languages
+
+{% include gallery id="gallery_Languages" layout="half" caption="" %}
