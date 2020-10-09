@@ -30,6 +30,23 @@ gallery_Cloud:
   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_aws_fundamentals_going_cloud_native.png
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_aws_fundamentals_going_cloud_native.png
     alt: "AWS Fundamentals Going Cloud Native"
+    
+gallery_cisco:
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_1_Technical_Overview_of_CVP.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_1_Technical_Overview_of_CVP.png
+    alt: "CVP 4.0 Course 1 Technical Overview of CVP"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_2_Developing_a_Self_Service_Application%20with_CVP_Studio.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_2_Developing_a_Self_Service_Application%20with_CVP_Studio.png
+    alt: "CVP 4.0 Course 2 Developing a Self Service Application with CVP Studio"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_3_CVP_VXML_Server_Operations_and_Troubleshooting.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_3_CVP_VXML_Server_Operations_and_Troubleshooting.png
+    alt: "CVP 4.0 Course 3 CVP VXML Server Operations and Troubleshooting"
+    
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_4_Creating_Custom_Components_in_CVP_Studio.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_4_Creating_Custom_Components_in_CVP_Studio.png
+    alt: "CVP 4.0 Course 4 Creating Custom Components in CVP Studio"
 
 ---
 
@@ -37,7 +54,7 @@ gallery_Cloud:
 
 # Machine Learning
 
-{% include gallery id="gallery_ML" caption="" %}
+{% include gallery id="gallery_ML" layout="half" caption="" %}
 
 # Natural Language Processing, Chatbot
 
@@ -46,3 +63,7 @@ gallery_Cloud:
 # Cloud
 
 {% include gallery id="gallery_Cloud" caption="" %}
+
+# Cisco CVP
+
+{% include gallery id="gallery_Cisco" caption="" %}
