@@ -2,8 +2,8 @@
 main:
   - title: "Machine Learning"
     url: /machine_learning/
-  - title: "Framework"
-    url: /framework/
+  - title: "Training & Certifications"
+    url: /training_certifications/
   - title: "Portfolio"
     url: /portfolio/
   - title: "About"
