@@ -8,7 +8,7 @@ excerpt: "Machine learning tutorials"
 
 ![Learning_Header](https://raw.githubusercontent.com/satishgunjal/images/master/Learning_Header.png)
 
-All my AI/ML/NLP related articles, tutorials and Kaggle kernel and notebooks details are avilable below. Source code is in python and datasets are mainly from Kaggle.
+All my AI/ML/NLP related articles, tutorials and Kaggle kernel and notebooks details are available below. Source code is in python and datasets are mainly from Kaggle.
 # Index
 * [Machine Learning Algorithms](#1)
 * [Natural Language Processing](#2)
@@ -19,33 +19,33 @@ All my AI/ML/NLP related articles, tutorials and Kaggle kernel and notebooks det
 
 # Machine Learning Algorithms <a id ="1"></a>
 
-This series is for absolute beginers. I have created a learning plan and tried to explain every concept from basics. Few tutorials also contain the end-to-end algorithms without using any library for better understanding and intuition. You will also learn using **scikit-learn** a free software machine learning library at the end of this series.
+This series is for absolute beginners. I have created a learning plan and tried to explain every concept from basics. Few tutorials also contain the end-to-end algorithms without using any library for better understanding and intuition. You will also learn to use **scikit-learn** a free software machine learning library at the end of this series.
 
- 1. [Introduction and Learning Plan](https://satishgunjal.github.io/ml_intro/)
- 2. [Univariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/univariate_lr/)
- 3. [Multivariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/multivariate_lr/)
- 4. [Univariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/univariate_lr_scikit/)
- 5. [Multivariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/multivariate_lr_scikit/)
- 6. [One Hot Encoding](https://satishgunjal.github.io/one_hot_encoding/)
- 7. [Train Test Split](https://satishgunjal.github.io/train_test_split/)
- 8. [Logistic Regression From Scratch With Python](https://satishgunjal.github.io/binary_lr/)
- 9. [Binary Logistic Regression Using Sklearn](https://satishgunjal.github.io/binary_lr_sklearn/)
- 10. [Multiclass Logistic Regression Using Sklearn](https://satishgunjal.github.io/multiclass_lr_sklearn/)
- 11. [Underfitting & Overfitting](https://satishgunjal.github.io/underfitting_overfitting/)
- 12. [Decision Tree](https://satishgunjal.github.io/decision_tree/)
- 13. [Random Forest](https://satishgunjal.github.io/random_forest/)
- 14. [Support Vector Machines](https://satishgunjal.github.io/svm/)
- 15. [K-Means Clustering](https://satishgunjal.github.io/kmeans/)
- 16. [K Fold Cross Validation](https://satishgunjal.github.io/kfold/)
+* [Introduction and Learning Plan](https://satishgunjal.github.io/ml_intro/)
+* [Univariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/univariate_lr/)
+* [Multivariate Linear Regression From Scratch With Python](https://satishgunjal.github.io/multivariate_lr/)
+* [Univariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/univariate_lr_scikit/)
+* [Multivariate Linear Regression Using Scikit Learn](https://satishgunjal.github.io/multivariate_lr_scikit/)
+* [One Hot Encoding](https://satishgunjal.github.io/one_hot_encoding/)
+* [Train Test Split](https://satishgunjal.github.io/train_test_split/)
+* [Logistic Regression From Scratch With Python](https://satishgunjal.github.io/binary_lr/)
+* [Binary Logistic Regression Using Sklearn](https://satishgunjal.github.io/binary_lr_sklearn/)
+* [Multiclass Logistic Regression Using Sklearn](https://satishgunjal.github.io/multiclass_lr_sklearn/)
+* [Underfitting & Overfitting](https://satishgunjal.github.io/underfitting_overfitting/)
+* [Decision Tree](https://satishgunjal.github.io/decision_tree/)
+* [Random Forest](https://satishgunjal.github.io/random_forest/)
+* [Support Vector Machines](https://satishgunjal.github.io/svm/)
+* [K-Means Clustering](https://satishgunjal.github.io/kmeans/)
+* [K Fold Cross Validation](https://satishgunjal.github.io/kfold/)
 
 # Natural Language Processing <a id ="2"></a>
  
 # Time Series Analysis <a id ="3"></a>
- 1. [Time Series Analysis and Forecasting (ARIMA)](https://satishgunjal.github.io/time_series/)
+* [Time Series Analysis and Forecasting (ARIMA)](https://satishgunjal.github.io/time_series/)
  
 # Machine Learning Projects <a id ="4"></a>
- 1. [Multivariate Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/17PENXmVUKuh2stS6t17bJfVWRVTcuNYu?usp=sharing) 
- 2. [Polynomial Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/122RctNobBy-GdOkDVCka-7NHm5NfCIPs?usp=sharing)
+* [Multivariate Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/17PENXmVUKuh2stS6t17bJfVWRVTcuNYu?usp=sharing) 
+* [Polynomial Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/122RctNobBy-GdOkDVCka-7NHm5NfCIPs?usp=sharing)
  
 # Other Articles <a id ="5"></a>
- 1. [Agile Scrum Framework](https://satishgunjal.github.io/agile_scrum/)
+* [Agile Scrum Framework](https://satishgunjal.github.io/agile_scrum/)
