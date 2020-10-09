@@ -31,7 +31,7 @@ gallery_Cloud:
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_coursera_aws_fundamentals_going_cloud_native.png
     alt: "AWS Fundamentals Going Cloud Native"
     
-gallery_cisco:
+gallery_Cisco:
   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_1_Technical_Overview_of_CVP.png
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_cisco_CVP_4_0_Course_1_Technical_Overview_of_CVP.png
     alt: "CVP 4.0 Course 1 Technical Overview of CVP"
