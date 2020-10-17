@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'ANN Model to Classify Images'
 date: 2020-10-17
 permalink: /ann_model_classify_images/
 tags:
