@@ -11,10 +11,11 @@ excerpt: "Machine learning tutorials"
 All my AI/ML/NLP related articles, tutorials and Kaggle kernel and notebooks details are available below. Source code is in python and datasets are mainly from Kaggle.
 # Index
 * [Machine Learning Algorithms](#1)
-* [Natural Language Processing](#2)
-* [Time Series Analysis](#3)
-* [Machine Learning Projects](#4)
-* [Other Articles](#5)
+* [Neural Network](#2)
+* [Natural Language Processing](#3
+* [Time Series Analysis](#4
+* [Machine Learning Projects](#5
+* [Other Articles](#6
 
 
 # Machine Learning Algorithms <a id ="1"></a>
@@ -38,14 +39,18 @@ This series is for absolute beginners. I have created a learning plan and tried 
 * [K-Means Clustering](https://satishgunjal.github.io/kmeans/)
 * [K Fold Cross Validation](https://satishgunjal.github.io/kfold/)
 
-# Natural Language Processing <a id ="2"></a>
+# Neural Network <a id ="2"></a>
+* [ANN Model to Classify Images](https://satishgunjal.com/ann_model_classify_images/)
+
+# Natural Language Processing <a id ="3"></a>
+* [Introduction to NLP](https://satishgunjal.com/intro_nlp/)
  
-# Time Series Analysis <a id ="3"></a>
+# Time Series Analysis <a id ="4"></a>
 * [Time Series Analysis and Forecasting (ARIMA)](https://satishgunjal.github.io/time_series/)
  
-# Machine Learning Projects <a id ="4"></a>
+# Machine Learning Projects <a id ="5"></a>
 * [Multivariate Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/17PENXmVUKuh2stS6t17bJfVWRVTcuNYu?usp=sharing) 
 * [Polynomial Linear Regression Fish Weight Prediction](https://colab.research.google.com/drive/122RctNobBy-GdOkDVCka-7NHm5NfCIPs?usp=sharing)
  
-# Other Articles <a id ="5"></a>
+# Other Articles <a id ="6"></a>
 * [Agile Scrum Framework](https://satishgunjal.github.io/agile_scrum/)
