@@ -12,10 +12,10 @@ All my AI/ML/NLP related articles, tutorials and Kaggle kernel and notebooks det
 # Index
 * [Machine Learning Algorithms](#1)
 * [Neural Network](#2)
-* [Natural Language Processing](#3
-* [Time Series Analysis](#4
-* [Machine Learning Projects](#5
-* [Other Articles](#6
+* [Natural Language Processing](#3)
+* [Time Series Analysis](#4)
+* [Machine Learning Projects](#5)
+* [Other Articles](#6)
 
 
 # Machine Learning Algorithms <a id ="1"></a>
