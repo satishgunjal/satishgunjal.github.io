@@ -261,7 +261,7 @@ plt.show()
 
 
     
-![png](neural-network-model-to-classify-images_files/neural-network-model-to-classify-images_13_0.png)
+![png](https://raw.githubusercontent.com/satishgunjal/images/master/neural-network-model-to-classify-images_13_0.png)
     
 
 
@@ -294,7 +294,7 @@ plt.show()
 
 
     
-![png](neural-network-model-to-classify-images_files/neural-network-model-to-classify-images_15_0.png)
+![png](https://raw.githubusercontent.com/satishgunjal/images/master/neural-network-model-to-classify-images_15_0.png)
     
 
 
@@ -504,7 +504,7 @@ plot_image(0, predictions[0], test_labels, test_images)
 
 
     
-![png](neural-network-model-to-classify-images_files/neural-network-model-to-classify-images_34_0.png)
+![png](https://raw.githubusercontent.com/satishgunjal/images/master/neural-network-model-to-classify-images_34_0.png)
     
 
 
@@ -538,7 +538,7 @@ plot_value_array(i, predictions[i],  test_labels)
 
 
     
-![png](neural-network-model-to-classify-images_files/neural-network-model-to-classify-images_36_0.png)
+![png](https://raw.githubusercontent.com/satishgunjal/images/master/neural-network-model-to-classify-images_36_0.png)
     
 
 
@@ -558,7 +558,7 @@ plt.show()
 
 
     
-![png](neural-network-model-to-classify-images_files/neural-network-model-to-classify-images_38_0.png)
+![png](https://raw.githubusercontent.com/satishgunjal/images/master/neural-network-model-to-classify-images_38_0.png)
     
 
 
@@ -588,7 +588,7 @@ plt.show()
 
 
     
-![png](neural-network-model-to-classify-images_files/neural-network-model-to-classify-images_41_0.png)
+![png](https://raw.githubusercontent.com/satishgunjal/images/master/neural-network-model-to-classify-images_41_0.png)
     
 
 
@@ -647,6 +647,6 @@ plt.show()
 
 
     
-![png](neural-network-model-to-classify-images_files/neural-network-model-to-classify-images_48_0.png)
+![png](https://raw.githubusercontent.com/satishgunjal/images/master/neural-network-model-to-classify-images_48_0.png)
     
 
