@@ -5,6 +5,10 @@ author_profile: true
 layout: single
 excerpt: "Training & Certifications"
 gallery_ML:
+  - url: https://raw.githubusercontent.com/satishgunjal/images/master/Coursera_Developing_AI_Applications_on_Azure_HBJRJNSNCSXK.png
+    image_path: https://raw.githubusercontent.com/satishgunjal/images/master/Coursera_Developing_AI_Applications_on_Azure_HBJRJNSNCSXK.png
+    alt: "Developing AI Applications on Azure"
+    
   - url: https://raw.githubusercontent.com/satishgunjal/images/master/cert_aws_the_elements_of_data_science_certificate.png
     image_path: https://raw.githubusercontent.com/satishgunjal/images/master/cert_aws_the_elements_of_data_science_certificate.png
     alt: "The Elements of Data Science Certificate"
