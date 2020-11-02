@@ -191,7 +191,7 @@ Suggested online resource is as below
 * Time required: Around 30 Mins.
 * Exercise/Lab: Each module contains the lab which can be done using free Azure subscription.
 
-# Other Links
+# Other Links <a id ="11"></a>
 
 * [Link to Azure AI Fundamentals certification page](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals)
 * [Link to download certification skills outline](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF)
