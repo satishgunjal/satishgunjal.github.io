@@ -56,7 +56,7 @@ Remember objective should be to achieve the necessary knowledge instead of just 
 
 Below are the learning resources for each of the section mentioned in skill measured table. At the end of each learning resource there is knowledge check section, to test your understanding of a particular module.
 
-> For doing the labs in the module you can use free Azure subscription. Since some options wasnt available for Indian region I used USA regions for my labs. And please be patient its painfully slow!!
+> For doing the labs you can use free Azure subscription. Since some options wasnt available for Indian region I used USA regions for my labs. And please be patient its painfully slow!!
 
 ## Describe AI workloads and considerations <a id ="6"></a>
 ![get-started-with-artificial-intelligence-on-azure.svg](https://raw.githubusercontent.com/satishgunjal/images/master/get-started-with-artificial-intelligence-on-azure.svg)
