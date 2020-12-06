@@ -5,7 +5,6 @@ header:
   teaser: https://raw.githubusercontent.com/satishgunjal/images/master/Contact_Centre_Solution_for_Real_Estate_Company_in_Mumbai_Genesys_Salesforce.png
 ---
 
-# Architecture
 ![Contact_Centre_Solution_for_Real_Estate_Company_in_Mumbai_Genesys_Salesforce_Architecture](https://raw.githubusercontent.com/satishgunjal/images/master/Contact_Centre_Solution_for_Real_Estate_Company_in_Mumbai_Genesys_Salesforce_Architecture.png)
 
 # Product Details
