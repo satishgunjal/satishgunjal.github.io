@@ -11,6 +11,11 @@ classes: wide
 
 During my 14+ years of career I have worked on variety of products, projects and POC's. Few of them are as below,
 
+# AI/Ml Projects
+--under update
+
+# Conversational AI Projects
+-- under update
 
 # Rule Based Projects
 At the start of my career I have worked on variety of rule based applications for telcos and banks. I have extensive knowledge of Unified communications and collaboration (UCC) and Contact Center industry and technologies used in it. Below are the few of my IVR, CTI, CRM and Analytics related projects. I have removed customers name and included high level architecture diagrams only.
