@@ -104,4 +104,52 @@ Scrum tools provide the user-friendly interface to manager every scrum event, li
 * Scrum removes the analysis-paralysis and gets teams focused on delivering the highest customer value every Sprint.
 * Scrum increases the decision-making speed by empowering the Scrum Team
 
+# Feature, User Stories and Tasks
+
+In Agile project execution, **tasks, user stories, and features** represent different levels of work breakdown to help teams manage and deliver value incrementally. 
+
+**1. Features:**
+
+* **What they are:** High-level functionalities or capabilities that deliver value to the user. 
+* **Example:** In an e-commerce application, a feature could be "Product Search" or "Shopping Cart". 
+* **Purpose:** Features define the overall scope of the project and guide development efforts.
+
+**2. User Stories:**
+
+* **What they are:** Short, simple descriptions of a specific functionality from the user's perspective. They typically follow the format: "As a [user role], I want to [do something] so that [achieve some benefit]". 
+* **Example:** "As a customer, I want to search for products by keyword so that I can find what I'm looking for quickly." 
+* **Purpose:** User stories capture user needs, provide context for development, and form the basis for estimating and prioritizing work.
+
+**3. Tasks:**
+
+* **What they are:** Specific actions or activities required to complete a user story. 
+* **Example:** "Design the search interface", "Implement the search algorithm", "Write unit tests". 
+* **Purpose:** Tasks break down user stories into smaller, manageable units of work that can be assigned to team members and tracked.
+
+**Key Relationships:**
+
+* **Features are broken down into User Stories.** A single feature often encompasses multiple user stories, each representing a different aspect of the functionality.
+* **User Stories are broken down into Tasks.** Each user story is further decomposed into specific tasks that need to be completed to deliver the desired functionality.
+
+**In summary:**
+
+* Features describe the "what" of the project.
+* User Stories explain the "why" from the user's point of view.
+* Tasks detail the "how" of implementing the user stories.
+
+This hierarchical structure helps Agile teams prioritize work, ensure user needs are met, and track progress towards delivering valuable features incrementally. 
+
+During sprint planning in Agile, tasks are assigned to individual developers or pairs of developers. 
+
+Here's a quick breakdown of how it works:
+
+1. **User Story Selection:** The team selects the user stories they aim to complete during the sprint, based on priority and capacity.
+2. **Task Breakdown:** Each selected user story is then further broken down into specific tasks, outlining the concrete steps needed to implement the story.
+3. **Task Assignment:**  Team members volunteer or are assigned tasks based on their skills, expertise, and workload.
+4. **Estimation:**  The team collaboratively estimates the effort required for each task, often using techniques like story points or time estimates.
+5. **Commitment:** The team commits to completing the selected user stories and their associated tasks within the sprint timeframe.
+
+Remember, though, that Agile emphasizes flexibility. While tasks are assigned during planning, the team should be open to adapting and adjusting as needed throughout the sprint to ensure successful delivery. 
+
+
 
